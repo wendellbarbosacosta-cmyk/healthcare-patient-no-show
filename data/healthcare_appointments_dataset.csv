@@ -1,0 +1,1201 @@
+appointment_id,patient_code,specialty,patient_age,gender,chronic_condition,lead_time_days,appointment_shift,day_of_week,confirmed_digital,previous_no_shows,consultation_value,attendance_status,opportunity_cost,no_show_probability
+MED-0001,PAC-45795,"Ortopedia",58,"Feminino",0,10,"Manhã","Terça",1,0,251,"Compareceu",0,0.22
+MED-0002,PAC-90272,"Neurologia",21,"Feminino",0,14,"Manhã","Segunda",0,2,377,"No-Show (Faltou)",377,0.77
+MED-0003,PAC-51415,"Cardiologia",55,"Masculino",0,33,"Tarde","Quinta",1,0,304,"No-Show (Faltou)",304,0.32
+MED-0004,PAC-79226,"Ortopedia",21,"Feminino",0,4,"Manhã","Quarta",0,0,278,"Compareceu",0,0.46
+MED-0005,PAC-53702,"Ginecologia",18,"Feminino",0,3,"Noite","Quarta",0,2,246,"No-Show (Faltou)",246,0.71
+MED-0006,PAC-34846,"Neurologia",24,"Masculino",1,12,"Noite","Terça",1,0,394,"Compareceu",0,0.21
+MED-0007,PAC-82656,"Neurologia",23,"Feminino",0,23,"Manhã","Quarta",1,2,371,"Compareceu",0,0.57
+MED-0008,PAC-77133,"Clínica Geral",53,"Feminino",0,16,"Tarde","Quinta",1,0,181,"Compareceu",0,0.24
+MED-0009,PAC-78277,"Cardiologia",33,"Feminino",0,24,"Noite","Quarta",0,0,312,"No-Show (Faltou)",312,0.61
+MED-0010,PAC-56087,"Clínica Geral",68,"Feminino",0,30,"Noite","Sábado",0,0,170,"No-Show (Faltou)",170,0.58
+MED-0011,PAC-70564,"Cardiologia",72,"Masculino",1,18,"Tarde","Terça",0,3,303,"Compareceu",0,0.7
+MED-0012,PAC-91707,"Cardiologia",23,"Masculino",1,20,"Noite","Quarta",0,0,316,"No-Show (Faltou)",316,0.44
+MED-0013,PAC-89517,"Neurologia",28,"Feminino",0,20,"Manhã","Segunda",1,1,397,"Compareceu",0,0.41
+MED-0014,PAC-33994,"Neurologia",68,"Masculino",1,6,"Manhã","Sexta",1,3,371,"No-Show (Faltou)",371,0.45
+MED-0015,PAC-75138,"Neurologia",53,"Feminino",1,4,"Manhã","Segunda",1,0,367,"Compareceu",0,0.14
+MED-0016,PAC-92948,"Ortopedia",31,"Feminino",0,2,"Noite","Sábado",1,0,250,"Compareceu",0,0.27
+MED-0017,PAC-57425,"Ortopedia",41,"Masculino",0,20,"Noite","Sexta",0,0,247,"Compareceu",0,0.65
+MED-0018,PAC-28568,"Cardiologia",64,"Masculino",1,12,"Manhã","Quarta",0,0,324,"No-Show (Faltou)",324,0.34
+MED-0019,PAC-66378,"Ginecologia",79,"Feminino",0,5,"Tarde","Quarta",1,0,229,"Compareceu",0,0.13
+MED-0020,PAC-50855,"Ortopedia",59,"Feminino",0,22,"Noite","Quarta",1,0,268,"No-Show (Faltou)",268,0.45
+MED-0021,PAC-41999,"Clínica Geral",52,"Feminino",1,9,"Noite","Terça",0,1,188,"Compareceu",0,0.5
+MED-0022,PAC-99809,"Ginecologia",36,"Feminino",0,1,"Noite","Quinta",0,0,256,"No-Show (Faltou)",256,0.47
+MED-0023,PAC-14286,"Cardiologia",54,"Masculino",1,9,"Tarde","Sábado",1,0,337,"Compareceu",0,0.07
+MED-0024,PAC-25429,"Dermatologia",22,"Feminino",0,38,"Manhã","Sábado",1,2,289,"No-Show (Faltou)",289,0.7
+MED-0025,PAC-13239,"Clínica Geral",39,"Feminino",0,15,"Noite","Quarta",1,0,169,"Compareceu",0,0.29
+MED-0026,PAC-37716,"Ginecologia",29,"Feminino",0,25,"Manhã","Sábado",1,0,252,"Compareceu",0,0.36
+MED-0027,PAC-68860,"Clínica Geral",30,"Feminino",0,4,"Manhã","Terça",0,1,197,"No-Show (Faltou)",197,0.52
+MED-0028,PAC-76670,"Cardiologia",23,"Feminino",0,22,"Manhã","Sábado",0,1,308,"Compareceu",0,0.68
+MED-0029,PAC-31147,"Dermatologia",46,"Feminino",0,26,"Manhã","Sexta",1,0,284,"Compareceu",0,0.52
+MED-0030,PAC-82290,"Clínica Geral",21,"Masculino",0,2,"Noite","Terça",1,0,161,"Compareceu",0,0.21
+MED-0031,PAC-20101,"Clínica Geral",45,"Feminino",0,13,"Tarde","Segunda",1,0,195,"No-Show (Faltou)",195,0.3
+MED-0032,PAC-84577,"Ortopedia",42,"Feminino",0,12,"Manhã","Segunda",1,0,263,"No-Show (Faltou)",263,0.36
+MED-0033,PAC-65721,"Dermatologia",50,"Masculino",1,24,"Manhã","Sexta",1,0,301,"Compareceu",0,0.45
+MED-0034,PAC-23531,"Ginecologia",49,"Feminino",0,37,"Tarde","Sábado",1,3,228,"No-Show (Faltou)",228,0.72
+MED-0035,PAC-18008,"Neurologia",20,"Feminino",0,29,"Tarde","Segunda",1,1,378,"Compareceu",0,0.51
+MED-0036,PAC-19152,"Clínica Geral",61,"Feminino",1,39,"Manhã","Segunda",1,0,169,"Compareceu",0,0.28
+MED-0037,PAC-86962,"Dermatologia",31,"Feminino",0,1,"Noite","Quarta",1,0,277,"Compareceu",0,0.33
+MED-0038,PAC-11439,"Neurologia",34,"Masculino",1,31,"Tarde","Sábado",1,0,360,"Compareceu",0,0.26
+MED-0039,PAC-32582,"Neurologia",49,"Feminino",0,34,"Noite","Segunda",1,0,373,"Compareceu",0,0.44
+MED-0040,PAC-30392,"Dermatologia",55,"Feminino",0,34,"Manhã","Quinta",1,2,304,"No-Show (Faltou)",304,0.7
+MED-0041,PAC-64869,"Dermatologia",30,"Feminino",0,16,"Tarde","Terça",1,0,278,"Compareceu",0,0.36
+MED-0042,PAC-16013,"Ginecologia",20,"Feminino",0,13,"Manhã","Quinta",1,0,224,"Compareceu",0,0.26
+MED-0043,PAC-33823,"Cardiologia",58,"Feminino",1,9,"Manhã","Quarta",1,0,307,"No-Show (Faltou)",307,0.07
+MED-0044,PAC-88300,"Clínica Geral",70,"Masculino",1,34,"Noite","Quarta",1,1,164,"Compareceu",0,0.39
+MED-0045,PAC-59443,"Neurologia",27,"Masculino",0,25,"Manhã","Sábado",1,0,381,"Compareceu",0,0.33
+MED-0046,PAC-97253,"Ortopedia",39,"Feminino",0,14,"Noite","Sábado",1,0,246,"Compareceu",0,0.35
+MED-0047,PAC-81730,"Cardiologia",23,"Feminino",0,36,"Manhã","Segunda",0,0,326,"Compareceu",0,0.62
+MED-0048,PAC-72874,"Neurologia",19,"Feminino",1,20,"Noite","Sábado",1,1,385,"No-Show (Faltou)",385,0.33
+MED-0049,PAC-40684,"Cardiologia",65,"Feminino",1,7,"Noite","Segunda",1,0,333,"Compareceu",0,0.13
+MED-0050,PAC-45161,"Neurologia",20,"Masculino",0,20,"Noite","Quarta",0,0,394,"No-Show (Faltou)",394,0.52
+MED-0051,PAC-56304,"Ginecologia",47,"Feminino",0,4,"Manhã","Quinta",1,0,236,"No-Show (Faltou)",236,0.18
+MED-0052,PAC-44114,"Dermatologia",68,"Feminino",1,28,"Noite","Sábado",0,1,276,"Compareceu",0,0.75
+MED-0053,PAC-68591,"Ortopedia",56,"Feminino",0,39,"Manhã","Quinta",1,1,269,"Compareceu",0,0.52
+MED-0054,PAC-99735,"Neurologia",57,"Feminino",0,13,"Manhã","Sexta",1,2,394,"Compareceu",0,0.53
+MED-0055,PAC-17545,"Neurologia",48,"Feminino",0,36,"Tarde","Quinta",1,1,365,"Compareceu",0,0.45
+MED-0056,PAC-62022,"Ortopedia",76,"Feminino",1,41,"Tarde","Terça",1,0,251,"Compareceu",0,0.28
+MED-0057,PAC-23165,"Neurologia",46,"Masculino",0,10,"Noite","Sexta",1,0,398,"Compareceu",0,0.26
+MED-0058,PAC-50976,"Neurologia",75,"Feminino",1,25,"Noite","Sexta",1,0,392,"Compareceu",0,0.32
+MED-0059,PAC-25452,"Cardiologia",71,"Feminino",1,24,"Manhã","Quinta",1,0,320,"Compareceu",0,0.2
+MED-0060,PAC-96596,"Ortopedia",18,"Masculino",0,39,"Manhã","Quarta",1,1,269,"No-Show (Faltou)",269,0.52
+MED-0061,PAC-54406,"Ortopedia",79,"Feminino",1,4,"Tarde","Quinta",1,0,245,"Compareceu",0,0.1
+MED-0062,PAC-48883,"Ginecologia",44,"Feminino",0,1,"Noite","Sexta",0,1,235,"No-Show (Faltou)",235,0.65
+MED-0063,PAC-50027,"Dermatologia",25,"Feminino",0,4,"Tarde","Sexta",1,0,276,"No-Show (Faltou)",276,0.34
+MED-0064,PAC-27837,"Ginecologia",58,"Feminino",1,8,"Manhã","Segunda",1,0,224,"Compareceu",0,0.17
+MED-0065,PAC-42314,"Dermatologia",62,"Masculino",0,2,"Noite","Quarta",1,0,307,"Compareceu",0,0.28
+MED-0066,PAC-63457,"Dermatologia",79,"Feminino",0,2,"Manhã","Quinta",1,0,280,"Compareceu",0,0.23
+MED-0067,PAC-61267,"Ortopedia",21,"Feminino",0,3,"Tarde","Terça",0,3,271,"No-Show (Faltou)",271,0.82
+MED-0068,PAC-95744,"Ortopedia",57,"Feminino",1,29,"Tarde","Sábado",1,0,245,"No-Show (Faltou)",245,0.33
+MED-0069,PAC-46888,"Ortopedia",44,"Feminino",1,25,"Tarde","Terça",0,0,241,"No-Show (Faltou)",241,0.57
+MED-0070,PAC-64698,"Neurologia",23,"Feminino",1,20,"Manhã","Segunda",0,0,364,"Compareceu",0,0.46
+MED-0071,PAC-29175,"Neurologia",32,"Masculino",1,3,"Manhã","Sábado",1,1,361,"Compareceu",0,0.2
+MED-0072,PAC-90318,"Dermatologia",54,"Masculino",1,39,"Tarde","Quinta",1,0,288,"No-Show (Faltou)",288,0.39
+MED-0073,PAC-38128,"Cardiologia",68,"Feminino",1,27,"Noite","Quinta",0,0,303,"No-Show (Faltou)",303,0.49
+MED-0074,PAC-22605,"Neurologia",49,"Feminino",0,3,"Manhã","Quinta",1,0,383,"Compareceu",0,0.15
+MED-0075,PAC-13749,"Dermatologia",42,"Feminino",0,34,"Manhã","Quarta",1,2,292,"No-Show (Faltou)",292,0.7
+MED-0076,PAC-71559,"Clínica Geral",28,"Feminino",0,17,"Manhã","Sexta",1,0,190,"Compareceu",0,0.3
+MED-0077,PAC-76036,"Dermatologia",45,"Masculino",0,33,"Manhã","Segunda",1,0,301,"Compareceu",0,0.52
+MED-0078,PAC-87179,"Cardiologia",77,"Feminino",1,13,"Tarde","Segunda",0,0,313,"Compareceu",0,0.4
+MED-0079,PAC-74989,"Ginecologia",31,"Feminino",1,1,"Manhã","Quinta",1,1,223,"Compareceu",0,0.23
+MED-0080,PAC-99466,"Clínica Geral",22,"Feminino",0,5,"Tarde","Segunda",1,2,186,"No-Show (Faltou)",186,0.46
+MED-0081,PAC-40610,"Ginecologia",22,"Feminino",0,25,"Tarde","Quarta",1,0,251,"Compareceu",0,0.36
+MED-0082,PAC-48420,"Dermatologia",79,"Feminino",1,3,"Tarde","Segunda",1,2,272,"No-Show (Faltou)",272,0.46
+MED-0083,PAC-92897,"Cardiologia",36,"Feminino",1,6,"Tarde","Sábado",0,0,308,"Compareceu",0,0.31
+MED-0084,PAC-54040,"Ginecologia",75,"Masculino",1,21,"Manhã","Quarta",1,0,255,"Compareceu",0,0.14
+MED-0085,PAC-81851,"Ginecologia",36,"Feminino",0,40,"Noite","Terça",0,1,249,"No-Show (Faltou)",249,0.77
+MED-0086,PAC-56327,"Neurologia",33,"Feminino",0,39,"Tarde","Terça",0,0,377,"No-Show (Faltou)",377,0.57
+MED-0087,PAC-37471,"Cardiologia",40,"Masculino",0,5,"Tarde","Sábado",1,1,326,"Compareceu",0,0.26
+MED-0088,PAC-85281,"Clínica Geral",39,"Feminino",1,13,"Noite","Segunda",1,0,162,"No-Show (Faltou)",162,0.28
+MED-0089,PAC-79758,"Ortopedia",73,"Feminino",1,8,"Noite","Terça",1,2,252,"Compareceu",0,0.39
+MED-0090,PAC-80902,"Ginecologia",51,"Feminino",0,14,"Tarde","Terça",0,1,223,"No-Show (Faltou)",223,0.62
+MED-0091,PAC-58712,"Ortopedia",23,"Feminino",0,19,"Manhã","Quinta",0,0,241,"Compareceu",0,0.54
+MED-0092,PAC-73189,"Ortopedia",26,"Masculino",0,9,"Manhã","Segunda",0,0,274,"No-Show (Faltou)",274,0.52
+MED-0093,PAC-94332,"Ginecologia",39,"Feminino",0,10,"Manhã","Terça",0,0,227,"Compareceu",0,0.42
+MED-0094,PAC-92142,"Cardiologia",45,"Feminino",0,11,"Tarde","Sexta",1,0,328,"No-Show (Faltou)",328,0.28
+MED-0095,PAC-36619,"Cardiologia",22,"Feminino",0,1,"Noite","Quarta",1,0,302,"Compareceu",0,0.19
+MED-0096,PAC-77763,"Clínica Geral",73,"Feminino",0,40,"Tarde","Sábado",1,0,198,"No-Show (Faltou)",198,0.29
+MED-0097,PAC-95573,"Dermatologia",48,"Feminino",1,34,"Tarde","Quinta",1,0,271,"No-Show (Faltou)",271,0.39
+MED-0098,PAC-60050,"Ginecologia",59,"Masculino",0,11,"Manhã","Quinta",0,2,258,"No-Show (Faltou)",258,0.74
+MED-0099,PAC-31193,"Ortopedia",20,"Masculino",1,5,"Tarde","Segunda",0,0,255,"Compareceu",0,0.45
+MED-0100,PAC-69003,"Neurologia",30,"Feminino",0,42,"Manhã","Segunda",1,0,360,"Compareceu",0,0.39
+MED-0101,PAC-53480,"Dermatologia",79,"Feminino",1,12,"Tarde","Terça",1,0,290,"Compareceu",0,0.24
+MED-0102,PAC-44624,"Ortopedia",72,"Feminino",0,3,"Manhã","Segunda",0,3,260,"No-Show (Faltou)",260,0.83
+MED-0103,PAC-12434,"Dermatologia",55,"Feminino",1,31,"Manhã","Quarta",0,0,297,"Compareceu",0,0.63
+MED-0104,PAC-16911,"Ortopedia",74,"Masculino",1,2,"Manhã","Quinta",1,0,268,"No-Show (Faltou)",268,0.1
+MED-0105,PAC-28054,"Clínica Geral",37,"Feminino",0,26,"Tarde","Sexta",1,0,170,"No-Show (Faltou)",170,0.4
+MED-0106,PAC-15864,"Cardiologia",58,"Feminino",0,7,"Manhã","Terça",1,2,300,"Compareceu",0,0.38
+MED-0107,PAC-40341,"Neurologia",46,"Masculino",0,14,"Tarde","Sexta",1,3,383,"Compareceu",0,0.65
+MED-0108,PAC-71485,"Ortopedia",47,"Feminino",0,40,"Tarde","Segunda",0,0,268,"Compareceu",0,0.7
+MED-0109,PAC-79295,"Ginecologia",39,"Feminino",0,12,"Noite","Sexta",1,0,259,"Compareceu",0,0.37
+MED-0110,PAC-33772,"Neurologia",65,"Feminino",0,15,"Noite","Quarta",1,0,365,"Compareceu",0,0.23
+MED-0111,PAC-84915,"Ortopedia",36,"Masculino",1,35,"Manhã","Sábado",0,0,272,"No-Show (Faltou)",272,0.57
+MED-0112,PAC-22726,"Ortopedia",64,"Feminino",1,5,"Manhã","Sábado",1,1,266,"Compareceu",0,0.22
+MED-0113,PAC-87202,"Dermatologia",60,"Feminino",1,4,"Tarde","Sábado",1,0,284,"Compareceu",0,0.21
+MED-0114,PAC-68346,"Neurologia",69,"Masculino",1,14,"Noite","Quinta",1,2,383,"No-Show (Faltou)",383,0.4
+MED-0115,PAC-26156,"Neurologia",68,"Feminino",0,25,"Noite","Sexta",1,0,399,"Compareceu",0,0.39
+MED-0116,PAC-20633,"Clínica Geral",34,"Feminino",1,18,"Manhã","Sábado",1,0,169,"Compareceu",0,0.17
+MED-0117,PAC-21777,"Cardiologia",18,"Masculino",0,26,"Noite","Sábado",1,1,300,"No-Show (Faltou)",300,0.49
+MED-0118,PAC-89587,"Clínica Geral",48,"Feminino",0,33,"Tarde","Terça",1,0,199,"Compareceu",0,0.34
+MED-0119,PAC-14064,"Cardiologia",52,"Masculino",1,19,"Manhã","Quinta",1,0,331,"Compareceu",0,0.15
+MED-0120,PAC-35207,"Cardiologia",68,"Feminino",1,22,"Tarde","Sexta",1,0,304,"Compareceu",0,0.26
+MED-0121,PAC-33017,"Neurologia",75,"Feminino",1,22,"Noite","Quarta",1,0,385,"Compareceu",0,0.26
+MED-0122,PAC-67494,"Neurologia",47,"Feminino",0,7,"Noite","Segunda",0,0,360,"No-Show (Faltou)",360,0.5
+MED-0123,PAC-18638,"Neurologia",34,"Feminino",0,5,"Noite","Quarta",1,0,395,"Compareceu",0,0.2
+MED-0124,PAC-36448,"Ortopedia",78,"Feminino",0,2,"Tarde","Terça",1,0,278,"Compareceu",0,0.17
+MED-0125,PAC-90925,"Ortopedia",24,"Masculino",0,22,"Tarde","Segunda",1,0,275,"Compareceu",0,0.46
+MED-0126,PAC-62068,"Cardiologia",44,"Masculino",0,14,"Noite","Sexta",1,0,312,"No-Show (Faltou)",312,0.33
+MED-0127,PAC-99878,"Dermatologia",58,"Feminino",1,6,"Manhã","Sexta",1,1,308,"No-Show (Faltou)",308,0.39
+MED-0128,PAC-84355,"Ortopedia",39,"Feminino",0,24,"Tarde","Sábado",0,0,257,"No-Show (Faltou)",257,0.64
+MED-0129,PAC-75499,"Cardiologia",33,"Feminino",0,11,"Tarde","Sexta",1,0,317,"Compareceu",0,0.28
+MED-0130,PAC-43309,"Ginecologia",20,"Feminino",1,2,"Tarde","Sábado",1,0,244,"Compareceu",0,0.11
+MED-0131,PAC-47786,"Cardiologia",35,"Masculino",0,10,"Tarde","Terça",0,0,325,"Compareceu",0,0.38
+MED-0132,PAC-58929,"Dermatologia",66,"Feminino",1,41,"Noite","Terça",1,0,277,"Compareceu",0,0.39
+MED-0133,PAC-46739,"Clínica Geral",23,"Feminino",0,17,"Tarde","Sexta",0,3,197,"No-Show (Faltou)",197,0.9
+MED-0134,PAC-71216,"Ginecologia",76,"Masculino",1,27,"Noite","Terça",1,0,240,"Compareceu",0,0.29
+MED-0135,PAC-12360,"Clínica Geral",77,"Feminino",1,5,"Noite","Quinta",1,0,185,"Compareceu",0,0.09
+MED-0136,PAC-20170,"Cardiologia",68,"Feminino",1,24,"Noite","Terça",1,0,337,"No-Show (Faltou)",337,0.25
+MED-0137,PAC-64647,"Dermatologia",28,"Feminino",0,28,"Noite","Segunda",1,0,272,"Compareceu",0,0.57
+MED-0138,PAC-25790,"Clínica Geral",65,"Masculino",0,3,"Tarde","Quinta",1,1,189,"Compareceu",0,0.23
+MED-0139,PAC-53601,"Clínica Geral",28,"Feminino",1,15,"Manhã","Quarta",1,2,183,"No-Show (Faltou)",183,0.41
+MED-0140,PAC-28077,"Ortopedia",24,"Feminino",1,14,"Noite","Quarta",1,0,251,"No-Show (Faltou)",251,0.28
+MED-0141,PAC-99221,"Dermatologia",31,"Masculino",0,26,"Noite","Terça",1,0,290,"Compareceu",0,0.51
+MED-0142,PAC-57031,"Dermatologia",30,"Feminino",0,40,"Manhã","Terça",1,0,306,"No-Show (Faltou)",306,0.46
+MED-0143,PAC-51508,"Neurologia",62,"Feminino",0,32,"Manhã","Quinta",0,0,366,"Compareceu",0,0.52
+MED-0144,PAC-52652,"Clínica Geral",41,"Masculino",0,41,"Noite","Quarta",1,2,197,"No-Show (Faltou)",197,0.63
+MED-0145,PAC-30462,"Neurologia",78,"Feminino",1,2,"Noite","Sexta",1,0,396,"Compareceu",0,0.14
+MED-0146,PAC-44939,"Neurologia",19,"Masculino",0,33,"Tarde","Terça",1,0,388,"Compareceu",0,0.33
+MED-0147,PAC-66082,"Clínica Geral",31,"Feminino",0,36,"Tarde","Quarta",1,0,161,"Compareceu",0,0.34
+MED-0148,PAC-63892,"Dermatologia",36,"Feminino",1,37,"Noite","Sábado",0,0,292,"No-Show (Faltou)",292,0.68
+MED-0149,PAC-98369,"Dermatologia",77,"Feminino",0,17,"Manhã","Quinta",1,0,307,"Compareceu",0,0.31
+MED-0150,PAC-49513,"Dermatologia",62,"Feminino",0,14,"Noite","Segunda",0,1,302,"No-Show (Faltou)",302,0.78
+MED-0151,PAC-67323,"Cardiologia",39,"Feminino",0,10,"Noite","Sábado",0,1,335,"No-Show (Faltou)",335,0.55
+MED-0152,PAC-31800,"Clínica Geral",49,"Masculino",0,37,"Tarde","Sexta",1,0,192,"Compareceu",0,0.4
+MED-0153,PAC-92943,"Neurologia",74,"Masculino",0,27,"Noite","Terça",1,0,369,"Compareceu",0,0.33
+MED-0154,PAC-40753,"Ortopedia",23,"Feminino",1,16,"Tarde","Quarta",0,1,275,"Compareceu",0,0.59
+MED-0155,PAC-25230,"Cardiologia",68,"Feminino",1,38,"Noite","Quarta",1,0,314,"Compareceu",0,0.25
+MED-0156,PAC-16374,"Neurologia",61,"Feminino",1,22,"Tarde","Terça",1,0,374,"No-Show (Faltou)",374,0.21
+MED-0157,PAC-74184,"Cardiologia",45,"Feminino",1,8,"Tarde","Quinta",1,0,321,"Compareceu",0,0.07
+MED-0158,PAC-78661,"Neurologia",63,"Masculino",1,22,"Tarde","Sábado",1,0,382,"No-Show (Faltou)",382,0.21
+MED-0159,PAC-89804,"Ginecologia",29,"Feminino",0,5,"Noite","Sábado",0,0,224,"No-Show (Faltou)",224,0.47
+MED-0160,PAC-77614,"Neurologia",48,"Feminino",0,30,"Tarde","Quarta",1,0,394,"Compareceu",0,0.33
+MED-0161,PAC-12091,"Ortopedia",37,"Masculino",1,42,"Manhã","Sábado",1,0,258,"Compareceu",0,0.33
+MED-0162,PAC-43235,"Neurologia",38,"Feminino",1,15,"Noite","Terça",1,0,382,"Compareceu",0,0.21
+MED-0163,PAC-51045,"Clínica Geral",30,"Feminino",0,39,"Manhã","Sábado",1,0,194,"Compareceu",0,0.34
+MED-0164,PAC-95522,"Ortopedia",55,"Feminino",0,1,"Manhã","Quinta",0,0,279,"No-Show (Faltou)",279,0.46
+MED-0165,PAC-56665,"Neurologia",28,"Masculino",0,11,"Noite","Segunda",1,1,386,"No-Show (Faltou)",386,0.46
+MED-0166,PAC-84476,"Neurologia",54,"Feminino",0,27,"Tarde","Segunda",0,3,380,"No-Show (Faltou)",380,0.95
+MED-0167,PAC-58952,"Cardiologia",50,"Feminino",0,26,"Noite","Segunda",0,0,308,"No-Show (Faltou)",308,0.67
+MED-0168,PAC-40096,"Ginecologia",59,"Masculino",1,41,"Manhã","Sexta",1,0,237,"Compareceu",0,0.35
+MED-0169,PAC-87906,"Ortopedia",57,"Feminino",1,5,"Manhã","Sábado",1,0,273,"Compareceu",0,0.15
+MED-0170,PAC-82383,"Ginecologia",26,"Feminino",0,2,"Tarde","Segunda",1,0,223,"Compareceu",0,0.24
+MED-0171,PAC-83527,"Dermatologia",70,"Masculino",1,6,"Manhã","Segunda",1,0,304,"No-Show (Faltou)",304,0.22
+MED-0172,PAC-61337,"Ginecologia",39,"Feminino",0,10,"Noite","Quarta",0,0,253,"No-Show (Faltou)",253,0.47
+MED-0173,PAC-75814,"Dermatologia",42,"Masculino",0,2,"Tarde","Sábado",1,0,295,"Compareceu",0,0.28
+MED-0174,PAC-96957,"Dermatologia",58,"Feminino",1,3,"Noite","Segunda",0,0,308,"No-Show (Faltou)",308,0.56
+MED-0175,PAC-94767,"Ortopedia",64,"Feminino",0,4,"Manhã","Quinta",1,0,259,"Compareceu",0,0.17
+MED-0176,PAC-39244,"Ortopedia",38,"Feminino",0,31,"Manhã","Terça",1,0,274,"No-Show (Faltou)",274,0.4
+MED-0177,PAC-80388,"Ortopedia",26,"Feminino",0,27,"Manhã","Quinta",1,1,269,"Compareceu",0,0.52
+MED-0178,PAC-98198,"Clínica Geral",68,"Feminino",1,22,"Manhã","Quarta",1,1,192,"Compareceu",0,0.34
+MED-0179,PAC-62675,"Neurologia",79,"Masculino",1,4,"Noite","Terça",0,0,389,"Compareceu",0,0.32
+MED-0180,PAC-33818,"Dermatologia",35,"Masculino",0,42,"Manhã","Sábado",0,1,277,"No-Show (Faltou)",277,0.82
+MED-0181,PAC-71628,"Cardiologia",48,"Feminino",0,29,"Tarde","Sábado",1,2,332,"No-Show (Faltou)",332,0.56
+MED-0182,PAC-56105,"Neurologia",30,"Feminino",0,4,"Noite","Segunda",1,0,371,"Compareceu",0,0.26
+MED-0183,PAC-47249,"Dermatologia",25,"Feminino",0,37,"Noite","Sábado",0,0,281,"No-Show (Faltou)",281,0.75
+MED-0184,PAC-15059,"Clínica Geral",74,"Feminino",0,19,"Noite","Segunda",1,1,178,"Compareceu",0,0.42
+MED-0185,PAC-19536,"Dermatologia",27,"Masculino",1,36,"Noite","Quarta",1,0,289,"Compareceu",0,0.44
+MED-0186,PAC-30679,"Ortopedia",56,"Feminino",0,15,"Manhã","Quarta",1,0,241,"Compareceu",0,0.3
+MED-0187,PAC-18489,"Ginecologia",78,"Feminino",1,1,"Noite","Sábado",1,0,251,"Compareceu",0,0.11
+MED-0188,PAC-42966,"Clínica Geral",66,"Masculino",0,6,"Manhã","Quarta",1,0,175,"Compareceu",0,0.11
+MED-0189,PAC-74110,"Ginecologia",67,"Feminino",0,27,"Manhã","Sexta",0,0,239,"No-Show (Faltou)",239,0.61
+MED-0190,PAC-81920,"Dermatologia",57,"Feminino",0,4,"Manhã","Quarta",1,0,301,"No-Show (Faltou)",301,0.28
+MED-0191,PAC-36397,"Cardiologia",20,"Feminino",0,7,"Manhã","Terça",1,0,336,"Compareceu",0,0.14
+MED-0192,PAC-87540,"Ginecologia",54,"Masculino",1,23,"Noite","Sexta",0,3,243,"No-Show (Faltou)",243,0.95
+MED-0193,PAC-25351,"Ginecologia",20,"Feminino",0,43,"Tarde","Quinta",1,0,237,"No-Show (Faltou)",237,0.36
+MED-0194,PAC-89827,"Neurologia",18,"Feminino",0,41,"Manhã","Quinta",1,0,365,"No-Show (Faltou)",365,0.33
+MED-0195,PAC-70971,"Cardiologia",23,"Masculino",1,6,"Manhã","Quarta",1,0,314,"Compareceu",0,0.07
+MED-0196,PAC-28781,"Cardiologia",22,"Feminino",0,14,"Tarde","Quarta",0,0,330,"No-Show (Faltou)",330,0.46
+MED-0197,PAC-23258,"Ortopedia",52,"Feminino",1,9,"Tarde","Sexta",1,0,240,"Compareceu",0,0.21
+MED-0198,PAC-24402,"Ginecologia",32,"Masculino",1,15,"Manhã","Quinta",1,0,251,"Compareceu",0,0.19
+MED-0199,PAC-92212,"Ortopedia",67,"Feminino",0,21,"Manhã","Sábado",1,0,270,"Compareceu",0,0.25
+MED-0200,PAC-16689,"Ortopedia",71,"Masculino",1,10,"Noite","Quarta",1,0,262,"Compareceu",0,0.15
+MED-0201,PAC-37832,"Ginecologia",23,"Feminino",0,12,"Noite","Quinta",1,0,255,"Compareceu",0,0.31
+MED-0202,PAC-35642,"Cardiologia",27,"Masculino",0,12,"Manhã","Terça",1,0,316,"No-Show (Faltou)",316,0.22
+MED-0203,PAC-70119,"Cardiologia",67,"Feminino",1,2,"Tarde","Sexta",0,0,331,"Compareceu",0,0.32
+MED-0204,PAC-21263,"Cardiologia",52,"Feminino",1,42,"Manhã","Terça",1,2,326,"No-Show (Faltou)",326,0.49
+MED-0205,PAC-39073,"Dermatologia",30,"Masculino",0,36,"Manhã","Segunda",1,2,299,"No-Show (Faltou)",299,0.76
+MED-0206,PAC-93550,"Ginecologia",40,"Masculino",0,12,"Noite","Sábado",1,0,246,"Compareceu",0,0.31
+MED-0207,PAC-64693,"Ortopedia",63,"Masculino",1,6,"Manhã","Quinta",1,1,244,"Compareceu",0,0.22
+MED-0208,PAC-12503,"Neurologia",78,"Feminino",0,1,"Noite","Quinta",1,0,389,"Compareceu",0,0.15
+MED-0209,PAC-86980,"Dermatologia",58,"Feminino",0,13,"Manhã","Quinta",0,0,278,"Compareceu",0,0.6
+MED-0210,PAC-78124,"Ortopedia",51,"Feminino",1,4,"Noite","Quarta",1,0,248,"No-Show (Faltou)",248,0.2
+MED-0211,PAC-45934,"Dermatologia",36,"Masculino",0,33,"Manhã","Sexta",1,1,285,"Compareceu",0,0.64
+MED-0212,PAC-50411,"Ortopedia",53,"Masculino",0,3,"Noite","Segunda",1,0,256,"No-Show (Faltou)",256,0.33
+MED-0213,PAC-61554,"Clínica Geral",21,"Feminino",0,28,"Manhã","Segunda",1,0,199,"No-Show (Faltou)",199,0.4
+MED-0214,PAC-49364,"Ortopedia",38,"Masculino",0,8,"Noite","Quinta",0,0,268,"Compareceu",0,0.51
+MED-0215,PAC-73841,"Neurologia",28,"Masculino",0,16,"Tarde","Segunda",0,0,372,"Compareceu",0,0.53
+MED-0216,PAC-14985,"Ortopedia",29,"Feminino",0,43,"Tarde","Quarta",1,0,256,"Compareceu",0,0.4
+MED-0217,PAC-22795,"Ginecologia",22,"Feminino",0,14,"Tarde","Segunda",1,0,248,"Compareceu",0,0.32
+MED-0218,PAC-67272,"Neurologia",45,"Feminino",0,17,"Tarde","Sexta",1,0,394,"Compareceu",0,0.29
+MED-0219,PAC-28415,"Ortopedia",20,"Masculino",0,37,"Manhã","Terça",1,0,260,"No-Show (Faltou)",260,0.4
+MED-0220,PAC-56226,"Ortopedia",44,"Masculino",0,6,"Noite","Terça",1,0,254,"Compareceu",0,0.27
+MED-0221,PAC-30702,"Dermatologia",41,"Feminino",0,6,"Manhã","Terça",1,1,272,"Compareceu",0,0.4
+MED-0222,PAC-11846,"Clínica Geral",49,"Masculino",0,16,"Tarde","Sábado",1,0,171,"Compareceu",0,0.24
+MED-0223,PAC-59656,"Neurologia",48,"Masculino",0,27,"Tarde","Segunda",1,0,387,"Compareceu",0,0.39
+MED-0224,PAC-54133,"Clínica Geral",19,"Feminino",0,20,"Noite","Terça",0,0,197,"No-Show (Faltou)",197,0.53
+MED-0225,PAC-55277,"Ortopedia",60,"Masculino",0,28,"Tarde","Terça",1,0,268,"No-Show (Faltou)",268,0.4
+MED-0226,PAC-33087,"Clínica Geral",30,"Feminino",0,35,"Manhã","Quinta",1,1,187,"No-Show (Faltou)",187,0.46
+MED-0227,PAC-47564,"Cardiologia",33,"Masculino",0,21,"Noite","Segunda",1,1,319,"Compareceu",0,0.45
+MED-0228,PAC-68707,"Cardiologia",48,"Feminino",0,24,"Manhã","Terça",1,1,332,"Compareceu",0,0.44
+MED-0229,PAC-66517,"Clínica Geral",54,"Masculino",1,24,"Tarde","Sexta",0,0,173,"Compareceu",0,0.57
+MED-0230,PAC-10994,"Neurologia",29,"Feminino",1,8,"Noite","Quarta",1,1,388,"No-Show (Faltou)",388,0.25
+MED-0231,PAC-52138,"Neurologia",19,"Feminino",1,6,"Tarde","Sexta",0,3,383,"No-Show (Faltou)",383,0.74
+MED-0232,PAC-69948,"Ginecologia",57,"Masculino",1,3,"Tarde","Quinta",0,3,246,"No-Show (Faltou)",246,0.71
+MED-0233,PAC-34425,"Ortopedia",69,"Masculino",1,24,"Manhã","Quarta",1,0,263,"Compareceu",0,0.28
+MED-0234,PAC-95568,"Cardiologia",27,"Masculino",0,16,"Tarde","Segunda",1,2,301,"No-Show (Faltou)",301,0.52
+MED-0235,PAC-43378,"Dermatologia",38,"Feminino",0,7,"Noite","Segunda",0,0,296,"No-Show (Faltou)",296,0.63
+MED-0236,PAC-27855,"Ortopedia",22,"Feminino",0,26,"Manhã","Terça",1,1,245,"No-Show (Faltou)",245,0.52
+MED-0237,PAC-18999,"Cardiologia",18,"Feminino",1,12,"Manhã","Segunda",1,0,305,"Compareceu",0,0.21
+MED-0238,PAC-76809,"Ginecologia",64,"Masculino",1,2,"Manhã","Terça",1,2,232,"Compareceu",0,0.3
+MED-0239,PAC-81286,"Cardiologia",20,"Masculino",0,12,"Manhã","Quinta",1,1,313,"Compareceu",0,0.34
+MED-0240,PAC-92429,"Neurologia",46,"Feminino",0,1,"Tarde","Sexta",0,0,396,"Compareceu",0,0.45
+MED-0241,PAC-80239,"Clínica Geral",67,"Masculino",1,19,"Manhã","Segunda",1,0,185,"Compareceu",0,0.18
+MED-0242,PAC-14716,"Dermatologia",55,"Masculino",0,29,"Tarde","Sexta",1,0,279,"No-Show (Faltou)",279,0.52
+MED-0243,PAC-45860,"Cardiologia",56,"Feminino",1,6,"Tarde","Sábado",1,0,313,"Compareceu",0,0.07
+MED-0244,PAC-53670,"Cardiologia",47,"Feminino",0,26,"Tarde","Quinta",1,0,325,"No-Show (Faltou)",325,0.32
+MED-0245,PAC-98147,"Dermatologia",74,"Feminino",1,31,"Noite","Quarta",0,1,301,"Compareceu",0,0.75
+MED-0246,PAC-59290,"Clínica Geral",45,"Masculino",0,4,"Manhã","Sábado",1,0,177,"Compareceu",0,0.16
+MED-0247,PAC-87101,"Cardiologia",74,"Masculino",1,16,"Noite","Sexta",0,0,311,"No-Show (Faltou)",311,0.45
+MED-0248,PAC-61577,"Ginecologia",70,"Feminino",1,15,"Tarde","Sexta",0,1,259,"No-Show (Faltou)",259,0.56
+MED-0249,PAC-42721,"Dermatologia",79,"Masculino",0,29,"Tarde","Quinta",0,0,278,"Compareceu",0,0.65
+MED-0250,PAC-90531,"Dermatologia",77,"Masculino",1,42,"Noite","Sexta",1,1,294,"No-Show (Faltou)",294,0.57
+MED-0251,PAC-85008,"Neurologia",43,"Feminino",0,34,"Noite","Sábado",1,0,394,"Compareceu",0,0.38
+MED-0252,PAC-86152,"Clínica Geral",24,"Masculino",0,1,"Tarde","Sexta",1,0,185,"Compareceu",0,0.22
+MED-0253,PAC-63962,"Neurologia",57,"Feminino",1,3,"Tarde","Terça",0,1,384,"Compareceu",0,0.44
+MED-0254,PAC-78439,"Clínica Geral",61,"Masculino",0,35,"Manhã","Quinta",1,1,176,"Compareceu",0,0.41
+MED-0255,PAC-99582,"Clínica Geral",78,"Feminino",1,38,"Manhã","Sexta",1,1,189,"No-Show (Faltou)",189,0.4
+MED-0256,PAC-97392,"Dermatologia",20,"Masculino",0,39,"Tarde","Quarta",1,0,280,"No-Show (Faltou)",280,0.46
+MED-0257,PAC-41869,"Dermatologia",56,"Feminino",1,19,"Noite","Segunda",1,1,295,"Compareceu",0,0.52
+MED-0258,PAC-83013,"Dermatologia",43,"Feminino",1,16,"Tarde","Quarta",1,0,290,"No-Show (Faltou)",290,0.29
+MED-0259,PAC-10823,"Cardiologia",22,"Masculino",1,12,"Tarde","Terça",1,0,323,"No-Show (Faltou)",323,0.15
+MED-0260,PAC-65300,"Cardiologia",31,"Masculino",0,39,"Manhã","Segunda",0,0,320,"No-Show (Faltou)",320,0.62
+MED-0261,PAC-36443,"Clínica Geral",53,"Masculino",1,29,"Tarde","Sexta",0,3,198,"No-Show (Faltou)",198,0.93
+MED-0262,PAC-74253,"Ortopedia",67,"Feminino",1,18,"Manhã","Sexta",1,0,263,"Compareceu",0,0.24
+MED-0263,PAC-58730,"Cardiologia",48,"Feminino",0,41,"Tarde","Sexta",1,1,302,"Compareceu",0,0.5
+MED-0264,PAC-49874,"Neurologia",41,"Feminino",0,24,"Manhã","Quinta",0,0,362,"No-Show (Faltou)",362,0.57
+MED-0265,PAC-17684,"Ortopedia",27,"Masculino",0,10,"Tarde","Sábado",1,0,249,"No-Show (Faltou)",249,0.22
+MED-0266,PAC-22161,"Clínica Geral",44,"Masculino",0,23,"Manhã","Terça",1,1,171,"No-Show (Faltou)",171,0.46
+MED-0267,PAC-33304,"Ginecologia",75,"Feminino",1,7,"Noite","Terça",1,1,253,"Compareceu",0,0.23
+MED-0268,PAC-21114,"Neurologia",30,"Masculino",1,33,"Manhã","Sexta",1,0,382,"Compareceu",0,0.32
+MED-0269,PAC-45591,"Ortopedia",21,"Masculino",0,1,"Noite","Terça",1,0,246,"Compareceu",0,0.27
+MED-0270,PAC-76735,"Neurologia",22,"Feminino",0,16,"Noite","Quinta",0,0,370,"Compareceu",0,0.52
+MED-0271,PAC-84545,"Clínica Geral",77,"Feminino",1,41,"Noite","Terça",1,0,182,"Compareceu",0,0.27
+MED-0272,PAC-39022,"Ginecologia",36,"Feminino",1,1,"Noite","Segunda",1,1,248,"Compareceu",0,0.34
+MED-0273,PAC-90165,"Neurologia",74,"Masculino",1,13,"Tarde","Quinta",0,0,374,"Compareceu",0,0.35
+MED-0274,PAC-27976,"Neurologia",35,"Masculino",0,30,"Manhã","Quarta",1,0,368,"Compareceu",0,0.33
+MED-0275,PAC-92452,"Cardiologia",32,"Feminino",0,28,"Tarde","Quarta",1,2,336,"Compareceu",0,0.56
+MED-0276,PAC-73596,"Ginecologia",39,"Masculino",0,1,"Noite","Segunda",1,0,225,"Compareceu",0,0.29
+MED-0277,PAC-31406,"Ortopedia",38,"Masculino",0,6,"Noite","Terça",0,1,261,"Compareceu",0,0.63
+MED-0278,PAC-25883,"Dermatologia",72,"Feminino",1,2,"Manhã","Quarta",1,0,301,"Compareceu",0,0.16
+MED-0279,PAC-27027,"Neurologia",50,"Masculino",0,7,"Noite","Quarta",1,0,382,"No-Show (Faltou)",382,0.2
+MED-0280,PAC-94837,"Ginecologia",22,"Feminino",0,11,"Tarde","Sexta",1,2,241,"No-Show (Faltou)",241,0.56
+MED-0281,PAC-19314,"Dermatologia",25,"Masculino",0,3,"Manhã","Terça",0,2,283,"Compareceu",0,0.76
+MED-0282,PAC-40457,"Dermatologia",38,"Feminino",0,4,"Tarde","Quarta",1,2,297,"Compareceu",0,0.52
+MED-0283,PAC-38267,"Ginecologia",44,"Masculino",0,5,"Noite","Sábado",1,1,227,"Compareceu",0,0.35
+MED-0284,PAC-72744,"Ginecologia",22,"Feminino",0,33,"Manhã","Quinta",0,2,242,"No-Show (Faltou)",242,0.84
+MED-0285,PAC-23888,"Ortopedia",72,"Feminino",0,29,"Noite","Sábado",1,0,257,"Compareceu",0,0.4
+MED-0286,PAC-41698,"Clínica Geral",47,"Masculino",0,24,"Noite","Sexta",1,0,180,"Compareceu",0,0.45
+MED-0287,PAC-96175,"Neurologia",58,"Masculino",0,5,"Tarde","Sexta",1,0,377,"Compareceu",0,0.21
+MED-0288,PAC-67318,"Dermatologia",19,"Masculino",0,1,"Noite","Terça",1,0,305,"No-Show (Faltou)",305,0.33
+MED-0289,PAC-15128,"Cardiologia",30,"Feminino",0,31,"Manhã","Terça",1,0,320,"No-Show (Faltou)",320,0.32
+MED-0290,PAC-89605,"Clínica Geral",78,"Feminino",1,5,"Tarde","Quarta",0,2,199,"No-Show (Faltou)",199,0.52
+MED-0291,PAC-80749,"Dermatologia",71,"Feminino",0,39,"Tarde","Terça",1,0,309,"Compareceu",0,0.41
+MED-0292,PAC-48559,"Clínica Geral",54,"Masculino",1,21,"Tarde","Quarta",1,0,166,"Compareceu",0,0.17
+MED-0293,PAC-53036,"Dermatologia",73,"Masculino",1,38,"Tarde","Sexta",1,2,278,"Compareceu",0,0.64
+MED-0294,PAC-64179,"Ortopedia",36,"Feminino",1,17,"Noite","Sábado",1,1,270,"Compareceu",0,0.4
+MED-0295,PAC-51989,"Ginecologia",57,"Masculino",0,2,"Tarde","Terça",0,0,239,"Compareceu",0,0.42
+MED-0296,PAC-76466,"Cardiologia",45,"Masculino",0,7,"Noite","Sábado",0,0,303,"Compareceu",0,0.43
+MED-0297,PAC-17610,"Dermatologia",46,"Feminino",0,29,"Noite","Segunda",1,1,277,"No-Show (Faltou)",277,0.69
+MED-0298,PAC-25420,"Neurologia",38,"Feminino",0,6,"Manhã","Sábado",0,0,379,"No-Show (Faltou)",379,0.39
+MED-0299,PAC-69897,"Cardiologia",64,"Feminino",0,8,"Manhã","Quinta",1,3,325,"Compareceu",0,0.45
+MED-0300,PAC-31040,"Dermatologia",35,"Masculino",1,25,"Tarde","Segunda",1,0,281,"Compareceu",0,0.45
+MED-0301,PAC-58851,"Dermatologia",63,"Masculino",1,1,"Manhã","Segunda",1,0,275,"Compareceu",0,0.22
+MED-0302,PAC-33327,"Clínica Geral",59,"Feminino",1,1,"Noite","Segunda",1,3,193,"No-Show (Faltou)",193,0.56
+MED-0303,PAC-14471,"Cardiologia",68,"Masculino",1,7,"Noite","Sexta",1,0,302,"Compareceu",0,0.13
+MED-0304,PAC-62281,"Cardiologia",67,"Masculino",0,16,"Manhã","Sábado",1,2,318,"No-Show (Faltou)",318,0.41
+MED-0305,PAC-56758,"Ortopedia",33,"Feminino",0,10,"Manhã","Segunda",0,0,268,"Compareceu",0,0.52
+MED-0306,PAC-57902,"Ginecologia",18,"Masculino",0,17,"Noite","Segunda",1,0,239,"Compareceu",0,0.37
+MED-0307,PAC-35712,"Ortopedia",47,"Feminino",1,23,"Noite","Quarta",1,0,258,"Compareceu",0,0.38
+MED-0308,PAC-50189,"Ginecologia",51,"Masculino",1,11,"Tarde","Sexta",1,0,230,"Compareceu",0,0.25
+MED-0309,PAC-71332,"Ginecologia",67,"Feminino",1,13,"Tarde","Sábado",1,0,244,"No-Show (Faltou)",244,0.14
+MED-0310,PAC-69142,"Cardiologia",74,"Masculino",1,14,"Noite","Quinta",0,1,304,"No-Show (Faltou)",304,0.51
+MED-0311,PAC-13619,"Cardiologia",46,"Feminino",0,2,"Manhã","Terça",1,0,319,"Compareceu",0,0.14
+MED-0312,PAC-54763,"Cardiologia",33,"Feminino",0,1,"Noite","Quinta",0,0,314,"No-Show (Faltou)",314,0.43
+MED-0313,PAC-72573,"Dermatologia",77,"Masculino",0,38,"Noite","Quarta",1,0,287,"No-Show (Faltou)",287,0.46
+MED-0314,PAC-37050,"Dermatologia",23,"Masculino",0,14,"Noite","Terça",1,0,284,"Compareceu",0,0.41
+MED-0315,PAC-98193,"Ginecologia",43,"Masculino",0,7,"Noite","Sábado",1,0,252,"Compareceu",0,0.23
+MED-0316,PAC-46003,"Clínica Geral",57,"Feminino",1,2,"Tarde","Sábado",0,0,177,"Compareceu",0,0.33
+MED-0317,PAC-30480,"Dermatologia",38,"Feminino",1,15,"Noite","Sábado",1,0,306,"Compareceu",0,0.34
+MED-0318,PAC-21624,"Ginecologia",32,"Feminino",0,5,"Noite","Sábado",1,1,256,"No-Show (Faltou)",256,0.35
+MED-0319,PAC-79434,"Neurologia",20,"Masculino",1,35,"Noite","Segunda",1,0,363,"No-Show (Faltou)",363,0.37
+MED-0320,PAC-83911,"Ginecologia",34,"Masculino",0,4,"Tarde","Quarta",1,0,225,"No-Show (Faltou)",225,0.18
+MED-0321,PAC-95054,"Clínica Geral",65,"Feminino",0,30,"Manhã","Quarta",0,3,187,"No-Show (Faltou)",187,0.89
+MED-0322,PAC-82864,"Ortopedia",22,"Masculino",0,10,"Tarde","Sábado",1,0,256,"Compareceu",0,0.22
+MED-0323,PAC-17341,"Neurologia",75,"Masculino",1,18,"Manhã","Quarta",1,1,360,"No-Show (Faltou)",360,0.23
+MED-0324,PAC-48485,"Ortopedia",76,"Feminino",1,1,"Manhã","Sexta",1,1,244,"Compareceu",0,0.28
+MED-0325,PAC-56295,"Ginecologia",67,"Feminino",1,15,"Manhã","Quarta",1,1,236,"Compareceu",0,0.26
+MED-0326,PAC-10772,"Clínica Geral",27,"Feminino",0,19,"Manhã","Terça",0,0,182,"Compareceu",0,0.48
+MED-0327,PAC-61915,"Ortopedia",64,"Masculino",0,40,"Noite","Sexta",1,0,248,"No-Show (Faltou)",248,0.46
+MED-0328,PAC-89726,"Ortopedia",27,"Masculino",1,8,"Tarde","Quinta",0,0,242,"Compareceu",0,0.39
+MED-0329,PAC-64202,"Dermatologia",24,"Feminino",0,7,"Noite","Quinta",0,0,300,"Compareceu",0,0.57
+MED-0330,PAC-45346,"Clínica Geral",31,"Masculino",0,17,"Manhã","Terça",0,0,199,"No-Show (Faltou)",199,0.48
+MED-0331,PAC-93156,"Neurologia",29,"Masculino",0,29,"Tarde","Quarta",1,0,375,"Compareceu",0,0.33
+MED-0332,PAC-87633,"Cardiologia",61,"Feminino",0,22,"Tarde","Quinta",1,1,326,"Compareceu",0,0.39
+MED-0333,PAC-88777,"Ortopedia",40,"Masculino",0,30,"Manhã","Quinta",1,0,257,"No-Show (Faltou)",257,0.4
+MED-0334,PAC-66587,"Cardiologia",77,"Feminino",0,37,"Noite","Sábado",0,0,315,"No-Show (Faltou)",315,0.56
+MED-0335,PAC-81064,"Cardiologia",18,"Masculino",0,23,"Tarde","Quarta",1,0,307,"No-Show (Faltou)",307,0.32
+MED-0336,PAC-12207,"Ortopedia",30,"Feminino",1,26,"Noite","Quinta",1,0,261,"Compareceu",0,0.38
+MED-0337,PAC-10017,"Clínica Geral",35,"Masculino",0,26,"Manhã","Segunda",1,2,161,"Compareceu",0,0.64
+MED-0338,PAC-44494,"Clínica Geral",76,"Feminino",1,10,"Tarde","Sexta",1,0,176,"Compareceu",0,0.1
+MED-0339,PAC-85638,"Neurologia",61,"Feminino",1,7,"Manhã","Terça",1,0,371,"Compareceu",0,0.03
+MED-0340,PAC-13448,"Ginecologia",38,"Masculino",0,4,"Manhã","Sábado",1,0,234,"Compareceu",0,0.18
+MED-0341,PAC-67925,"Ortopedia",48,"Feminino",0,26,"Noite","Sábado",0,1,251,"No-Show (Faltou)",251,0.81
+MED-0342,PAC-39068,"Cardiologia",73,"Feminino",1,18,"Manhã","Quarta",0,0,329,"No-Show (Faltou)",329,0.34
+MED-0343,PAC-76878,"Dermatologia",22,"Feminino",0,9,"Tarde","Quarta",1,0,284,"No-Show (Faltou)",284,0.28
+MED-0344,PAC-61355,"Ginecologia",67,"Feminino",0,28,"Noite","Quinta",1,0,253,"Compareceu",0,0.36
+MED-0345,PAC-52499,"Cardiologia",60,"Feminino",1,14,"Noite","Quarta",0,1,333,"Compareceu",0,0.56
+MED-0346,PAC-20309,"Ginecologia",44,"Masculino",0,3,"Noite","Sexta",1,0,220,"Compareceu",0,0.29
+MED-0347,PAC-24786,"Cardiologia",62,"Masculino",1,13,"Noite","Sábado",1,0,302,"Compareceu",0,0.15
+MED-0348,PAC-35929,"Neurologia",28,"Feminino",0,1,"Manhã","Segunda",1,0,384,"Compareceu",0,0.21
+MED-0349,PAC-23739,"Clínica Geral",47,"Masculino",0,21,"Noite","Quinta",1,1,173,"Compareceu",0,0.41
+MED-0350,PAC-48216,"Dermatologia",36,"Masculino",1,31,"Manhã","Segunda",1,1,307,"No-Show (Faltou)",307,0.57
+MED-0351,PAC-79360,"Cardiologia",37,"Feminino",0,8,"Manhã","Quarta",0,3,301,"No-Show (Faltou)",301,0.74
+MED-0352,PAC-87170,"Ortopedia",29,"Feminino",0,28,"Tarde","Segunda",1,1,253,"No-Show (Faltou)",253,0.58
+MED-0353,PAC-41647,"Dermatologia",54,"Feminino",1,33,"Tarde","Sexta",1,0,289,"No-Show (Faltou)",289,0.45
+MED-0354,PAC-92790,"Cardiologia",27,"Masculino",0,5,"Noite","Terça",0,0,305,"Compareceu",0,0.43
+MED-0355,PAC-30601,"Cardiologia",53,"Masculino",0,18,"Tarde","Terça",1,0,339,"Compareceu",0,0.22
+MED-0356,PAC-95077,"Ginecologia",49,"Feminino",0,17,"Manhã","Terça",1,0,247,"No-Show (Faltou)",247,0.26
+MED-0357,PAC-76221,"Dermatologia",58,"Masculino",1,31,"Manhã","Sábado",1,1,306,"Compareceu",0,0.51
+MED-0358,PAC-34031,"Dermatologia",56,"Masculino",1,1,"Tarde","Segunda",0,0,282,"No-Show (Faltou)",282,0.51
+MED-0359,PAC-28508,"Neurologia",25,"Feminino",0,36,"Tarde","Terça",1,1,383,"No-Show (Faltou)",383,0.45
+MED-0360,PAC-29652,"Clínica Geral",69,"Masculino",1,1,"Manhã","Terça",0,0,174,"Compareceu",0,0.28
+MED-0361,PAC-97462,"Neurologia",38,"Feminino",0,4,"Manhã","Quinta",1,0,372,"Compareceu",0,0.15
+MED-0362,PAC-21939,"Clínica Geral",41,"Masculino",1,38,"Noite","Sábado",0,0,164,"No-Show (Faltou)",164,0.56
+MED-0363,PAC-43082,"Clínica Geral",57,"Feminino",0,41,"Noite","Segunda",1,0,178,"No-Show (Faltou)",178,0.45
+MED-0364,PAC-40892,"Dermatologia",63,"Masculino",0,41,"Tarde","Sexta",1,0,308,"No-Show (Faltou)",308,0.47
+MED-0365,PAC-75369,"Dermatologia",37,"Feminino",0,21,"Tarde","Quarta",0,0,283,"Compareceu",0,0.6
+MED-0366,PAC-26513,"Dermatologia",25,"Feminino",0,18,"Manhã","Sexta",1,0,278,"No-Show (Faltou)",278,0.42
+MED-0367,PAC-44323,"Ortopedia",66,"Masculino",1,13,"Manhã","Quinta",1,0,251,"No-Show (Faltou)",251,0.18
+MED-0368,PAC-98800,"Cardiologia",78,"Feminino",1,41,"Manhã","Quarta",1,1,308,"Compareceu",0,0.32
+MED-0369,PAC-69943,"Clínica Geral",34,"Feminino",0,31,"Manhã","Segunda",1,0,186,"Compareceu",0,0.4
+MED-0370,PAC-17753,"Ginecologia",47,"Feminino",0,20,"Noite","Segunda",1,0,231,"Compareceu",0,0.37
+MED-0371,PAC-92230,"Cardiologia",29,"Feminino",0,1,"Manhã","Terça",0,0,330,"No-Show (Faltou)",330,0.38
+MED-0372,PAC-83374,"Clínica Geral",24,"Feminino",0,26,"Manhã","Segunda",1,2,190,"No-Show (Faltou)",190,0.64
+MED-0373,PAC-51184,"Ortopedia",73,"Masculino",0,11,"Manhã","Terça",0,0,277,"No-Show (Faltou)",277,0.49
+MED-0374,PAC-55661,"Clínica Geral",26,"Masculino",1,25,"Noite","Quinta",1,0,199,"No-Show (Faltou)",199,0.32
+MED-0375,PAC-66804,"Dermatologia",55,"Feminino",0,8,"Tarde","Quinta",1,0,291,"No-Show (Faltou)",291,0.28
+MED-0376,PAC-54614,"Neurologia",77,"Masculino",1,35,"Noite","Segunda",0,1,370,"No-Show (Faltou)",370,0.68
+MED-0377,PAC-79091,"Ortopedia",64,"Masculino",0,2,"Tarde","Quinta",0,2,274,"No-Show (Faltou)",274,0.65
+MED-0378,PAC-20235,"Neurologia",66,"Feminino",0,18,"Tarde","Sábado",1,0,398,"No-Show (Faltou)",398,0.18
+MED-0379,PAC-28045,"Clínica Geral",56,"Feminino",0,1,"Tarde","Quinta",0,2,170,"No-Show (Faltou)",170,0.64
+MED-0380,PAC-72522,"Ginecologia",20,"Feminino",0,2,"Tarde","Quarta",1,0,236,"Compareceu",0,0.18
+MED-0381,PAC-33665,"Neurologia",53,"Masculino",1,14,"Manhã","Sábado",1,0,362,"Compareceu",0,0.16
+MED-0382,PAC-61476,"Neurologia",20,"Masculino",0,32,"Noite","Sexta",1,1,396,"Compareceu",0,0.56
+MED-0383,PAC-35952,"Cardiologia",79,"Feminino",1,30,"Tarde","Sexta",1,0,324,"Compareceu",0,0.26
+MED-0384,PAC-17096,"Ginecologia",23,"Masculino",0,2,"Tarde","Quinta",1,1,253,"Compareceu",0,0.3
+MED-0385,PAC-64906,"Ginecologia",22,"Masculino",0,7,"Noite","Quinta",1,0,229,"Compareceu",0,0.23
+MED-0386,PAC-59383,"Dermatologia",51,"Feminino",1,3,"Noite","Sábado",1,2,290,"Compareceu",0,0.5
+MED-0387,PAC-60527,"Neurologia",31,"Masculino",1,8,"Tarde","Sexta",1,1,371,"No-Show (Faltou)",371,0.26
+MED-0388,PAC-38337,"Dermatologia",66,"Feminino",0,13,"Manhã","Segunda",1,0,279,"Compareceu",0,0.37
+MED-0389,PAC-52814,"Dermatologia",70,"Masculino",1,4,"Noite","Quinta",1,0,272,"No-Show (Faltou)",272,0.21
+MED-0390,PAC-73957,"Neurologia",22,"Feminino",0,5,"Manhã","Sexta",1,0,375,"Compareceu",0,0.21
+MED-0391,PAC-71767,"Ginecologia",26,"Masculino",0,6,"Tarde","Terça",0,0,255,"Compareceu",0,0.42
+MED-0392,PAC-16244,"Ginecologia",66,"Feminino",1,35,"Noite","Sábado",1,0,230,"No-Show (Faltou)",230,0.29
+MED-0393,PAC-57388,"Ginecologia",51,"Feminino",1,31,"Tarde","Quarta",1,0,226,"Compareceu",0,0.29
+MED-0394,PAC-75198,"Clínica Geral",29,"Masculino",0,26,"Tarde","Terça",1,0,168,"Compareceu",0,0.34
+MED-0395,PAC-39675,"Neurologia",39,"Feminino",1,6,"Manhã","Segunda",1,3,365,"No-Show (Faltou)",365,0.5
+MED-0396,PAC-10818,"Dermatologia",62,"Feminino",1,2,"Tarde","Quinta",1,0,293,"Compareceu",0,0.16
+MED-0397,PAC-48628,"Cardiologia",77,"Feminino",1,34,"Noite","Sexta",0,0,308,"No-Show (Faltou)",308,0.55
+MED-0398,PAC-33105,"Clínica Geral",57,"Feminino",0,7,"Tarde","Sexta",1,0,187,"Compareceu",0,0.22
+MED-0399,PAC-24249,"Dermatologia",50,"Feminino",1,41,"Manhã","Quinta",1,0,297,"Compareceu",0,0.39
+MED-0400,PAC-82059,"Clínica Geral",35,"Masculino",0,23,"Manhã","Sábado",1,0,194,"Compareceu",0,0.34
+MED-0401,PAC-86536,"Dermatologia",52,"Masculino",0,40,"Manhã","Terça",0,0,306,"No-Show (Faltou)",306,0.7
+MED-0402,PAC-97679,"Ortopedia",20,"Feminino",0,19,"Tarde","Terça",0,0,258,"Compareceu",0,0.54
+MED-0403,PAC-85489,"Dermatologia",37,"Masculino",0,3,"Manhã","Sexta",1,2,277,"No-Show (Faltou)",277,0.58
+MED-0404,PAC-19966,"Cardiologia",28,"Masculino",0,9,"Tarde","Terça",1,3,331,"Compareceu",0,0.5
+MED-0405,PAC-51110,"Dermatologia",28,"Feminino",0,32,"Tarde","Quinta",1,0,305,"Compareceu",0,0.46
+MED-0406,PAC-58920,"Neurologia",22,"Feminino",0,7,"Noite","Terça",1,0,367,"No-Show (Faltou)",367,0.2
+MED-0407,PAC-13397,"Cardiologia",44,"Feminino",0,10,"Noite","Sábado",0,0,313,"No-Show (Faltou)",313,0.43
+MED-0408,PAC-64540,"Dermatologia",20,"Masculino",0,27,"Manhã","Quarta",1,1,309,"Compareceu",0,0.58
+MED-0409,PAC-92351,"Dermatologia",43,"Masculino",0,2,"Noite","Quarta",0,1,303,"No-Show (Faltou)",303,0.69
+MED-0410,PAC-66827,"Clínica Geral",40,"Feminino",0,1,"Tarde","Quarta",0,0,181,"No-Show (Faltou)",181,0.4
+MED-0411,PAC-47971,"Ortopedia",48,"Masculino",0,8,"Tarde","Segunda",0,2,270,"Compareceu",0,0.76
+MED-0412,PAC-95781,"Cardiologia",47,"Masculino",0,18,"Noite","Terça",1,0,306,"Compareceu",0,0.27
+MED-0413,PAC-90258,"Ortopedia",18,"Feminino",0,12,"Noite","Quarta",1,0,257,"No-Show (Faltou)",257,0.35
+MED-0414,PAC-91402,"Ginecologia",59,"Masculino",0,19,"Tarde","Quarta",1,1,228,"Compareceu",0,0.38
+MED-0415,PAC-69212,"Ortopedia",29,"Feminino",0,25,"Tarde","Sexta",1,0,246,"Compareceu",0,0.46
+MED-0416,PAC-83689,"Ginecologia",32,"Masculino",0,13,"Manhã","Terça",1,0,259,"Compareceu",0,0.26
+MED-0417,PAC-14832,"Ginecologia",47,"Feminino",0,15,"Manhã","Quarta",1,0,232,"No-Show (Faltou)",232,0.26
+MED-0418,PAC-12642,"Cardiologia",53,"Masculino",1,15,"Noite","Sábado",1,0,332,"Compareceu",0,0.2
+MED-0419,PAC-47119,"Cardiologia",28,"Feminino",1,3,"Noite","Quinta",1,0,307,"Compareceu",0,0.12
+MED-0420,PAC-88263,"Cardiologia",18,"Feminino",1,2,"Tarde","Sábado",1,0,303,"Compareceu",0,0.07
+MED-0421,PAC-16073,"Neurologia",56,"Masculino",1,41,"Tarde","Sexta",1,0,365,"No-Show (Faltou)",365,0.32
+MED-0422,PAC-70550,"Dermatologia",68,"Feminino",0,16,"Tarde","Quinta",0,0,272,"No-Show (Faltou)",272,0.55
+MED-0423,PAC-41693,"Ginecologia",26,"Feminino",1,9,"Noite","Terça",0,0,240,"Compareceu",0,0.4
+MED-0424,PAC-79503,"Clínica Geral",37,"Feminino",0,2,"Manhã","Terça",1,1,165,"Compareceu",0,0.28
+MED-0425,PAC-63980,"Dermatologia",22,"Masculino",0,17,"Tarde","Quarta",1,0,294,"No-Show (Faltou)",294,0.36
+MED-0426,PAC-55124,"Ginecologia",18,"Feminino",0,6,"Tarde","Terça",0,0,244,"No-Show (Faltou)",244,0.42
+MED-0427,PAC-22934,"Neurologia",63,"Masculino",1,38,"Tarde","Quarta",1,0,391,"No-Show (Faltou)",391,0.21
+MED-0428,PAC-27411,"Ginecologia",19,"Masculino",0,5,"Manhã","Sexta",1,0,253,"No-Show (Faltou)",253,0.24
+MED-0429,PAC-38554,"Cardiologia",45,"Masculino",0,32,"Noite","Sexta",1,0,315,"No-Show (Faltou)",315,0.43
+MED-0430,PAC-26364,"Ortopedia",66,"Masculino",1,11,"Manhã","Terça",1,0,244,"No-Show (Faltou)",244,0.18
+MED-0431,PAC-50841,"Neurologia",54,"Masculino",1,20,"Noite","Sábado",1,0,388,"No-Show (Faltou)",388,0.21
+MED-0432,PAC-81985,"Ortopedia",55,"Feminino",1,2,"Noite","Segunda",0,0,272,"No-Show (Faltou)",272,0.5
+MED-0433,PAC-89795,"Ginecologia",46,"Feminino",0,17,"Noite","Sexta",1,0,224,"Compareceu",0,0.37
+MED-0434,PAC-44272,"Clínica Geral",73,"Feminino",1,21,"Noite","Quinta",1,0,170,"Compareceu",0,0.17
+MED-0435,PAC-95415,"Ortopedia",44,"Masculino",0,42,"Tarde","Segunda",0,1,277,"No-Show (Faltou)",277,0.82
+MED-0436,PAC-33226,"Ortopedia",73,"Masculino",1,9,"Manhã","Sábado",1,2,270,"Compareceu",0,0.34
+MED-0437,PAC-97702,"Dermatologia",69,"Feminino",1,8,"Noite","Sábado",1,0,289,"Compareceu",0,0.21
+MED-0438,PAC-78846,"Clínica Geral",78,"Masculino",1,19,"Noite","Sexta",1,0,187,"Compareceu",0,0.23
+MED-0439,PAC-36656,"Clínica Geral",76,"Masculino",1,31,"Manhã","Sexta",0,0,163,"Compareceu",0,0.52
+MED-0440,PAC-31133,"Cardiologia",42,"Feminino",1,24,"Manhã","Segunda",1,0,314,"Compareceu",0,0.31
+MED-0441,PAC-32277,"Ortopedia",23,"Masculino",0,32,"Noite","Sábado",0,2,245,"No-Show (Faltou)",245,0.93
+MED-0442,PAC-10087,"Cardiologia",56,"Feminino",1,40,"Tarde","Quarta",1,0,303,"Compareceu",0,0.25
+MED-0443,PAC-24564,"Cardiologia",60,"Masculino",0,25,"Manhã","Sexta",0,0,336,"No-Show (Faltou)",336,0.62
+MED-0444,PAC-45707,"Ortopedia",77,"Feminino",1,28,"Tarde","Sábado",0,0,249,"Compareceu",0,0.52
+MED-0445,PAC-43517,"Clínica Geral",19,"Masculino",0,28,"Noite","Quinta",1,0,190,"Compareceu",0,0.39
+MED-0446,PAC-77994,"Clínica Geral",55,"Feminino",0,11,"Manhã","Segunda",0,0,164,"No-Show (Faltou)",164,0.54
+MED-0447,PAC-29138,"Clínica Geral",42,"Feminino",0,9,"Noite","Quinta",1,1,160,"Compareceu",0,0.33
+MED-0448,PAC-46948,"Ginecologia",21,"Masculino",0,5,"Noite","Quarta",1,1,223,"Compareceu",0,0.35
+MED-0449,PAC-11425,"Ortopedia",30,"Feminino",0,28,"Tarde","Terça",1,0,279,"No-Show (Faltou)",279,0.4
+MED-0450,PAC-72568,"Ortopedia",52,"Feminino",1,19,"Noite","Sábado",1,0,257,"Compareceu",0,0.28
+MED-0451,PAC-20378,"Dermatologia",66,"Feminino",1,10,"Tarde","Sábado",1,1,272,"Compareceu",0,0.28
+MED-0452,PAC-94855,"Ginecologia",47,"Masculino",0,30,"Noite","Sábado",1,0,241,"Compareceu",0,0.41
+MED-0453,PAC-85999,"Cardiologia",41,"Feminino",0,16,"Tarde","Sexta",1,0,321,"Compareceu",0,0.28
+MED-0454,PAC-53809,"Dermatologia",26,"Masculino",0,4,"Tarde","Segunda",0,0,299,"Compareceu",0,0.58
+MED-0455,PAC-58286,"Cardiologia",43,"Masculino",0,15,"Tarde","Quarta",1,0,330,"Compareceu",0,0.22
+MED-0456,PAC-69429,"Neurologia",74,"Masculino",1,2,"Noite","Quarta",1,0,372,"Compareceu",0,0.08
+MED-0457,PAC-57239,"Cardiologia",29,"Masculino",0,23,"Tarde","Sábado",0,0,302,"No-Show (Faltou)",302,0.56
+MED-0458,PAC-81716,"Dermatologia",20,"Masculino",0,33,"Noite","Quarta",0,0,295,"No-Show (Faltou)",295,0.75
+MED-0459,PAC-22860,"Cardiologia",21,"Feminino",0,9,"Noite","Sexta",1,0,329,"Compareceu",0,0.25
+MED-0460,PAC-30670,"Ortopedia",76,"Feminino",1,30,"Manhã","Quarta",0,0,241,"No-Show (Faltou)",241,0.52
+MED-0461,PAC-75147,"Dermatologia",35,"Feminino",0,35,"Manhã","Segunda",1,0,277,"No-Show (Faltou)",277,0.52
+MED-0462,PAC-36290,"Cardiologia",73,"Masculino",1,6,"Tarde","Quinta",1,2,334,"Compareceu",0,0.26
+MED-0463,PAC-64101,"Cardiologia",34,"Masculino",0,20,"Manhã","Quinta",1,0,328,"Compareceu",0,0.22
+MED-0464,PAC-38577,"Ginecologia",31,"Feminino",1,19,"Noite","Quinta",1,0,236,"No-Show (Faltou)",236,0.24
+MED-0465,PAC-19721,"Neurologia",38,"Masculino",0,33,"Noite","Terça",1,0,384,"Compareceu",0,0.38
+MED-0466,PAC-67531,"Dermatologia",37,"Masculino",0,2,"Manhã","Quarta",1,0,271,"Compareceu",0,0.28
+MED-0467,PAC-62008,"Neurologia",71,"Feminino",1,38,"Tarde","Quinta",1,0,371,"No-Show (Faltou)",371,0.21
+MED-0468,PAC-63152,"Cardiologia",49,"Masculino",0,2,"Noite","Quinta",1,0,302,"Compareceu",0,0.19
+MED-0469,PAC-40962,"Neurologia",21,"Feminino",0,5,"Noite","Sábado",1,0,360,"Compareceu",0,0.2
+MED-0470,PAC-55439,"Clínica Geral",24,"Masculino",0,40,"Tarde","Quarta",1,0,193,"Compareceu",0,0.34
+MED-0471,PAC-76582,"Clínica Geral",37,"Feminino",0,1,"Tarde","Quinta",1,0,166,"No-Show (Faltou)",166,0.16
+MED-0472,PAC-74392,"Neurologia",43,"Masculino",1,1,"Manhã","Segunda",0,0,387,"No-Show (Faltou)",387,0.38
+MED-0473,PAC-18869,"Neurologia",21,"Feminino",0,23,"Manhã","Sexta",1,0,361,"Compareceu",0,0.39
+MED-0474,PAC-60013,"Dermatologia",71,"Feminino",0,20,"Manhã","Segunda",1,1,307,"No-Show (Faltou)",307,0.49
+MED-0475,PAC-77823,"Ortopedia",46,"Masculino",0,15,"Noite","Sábado",1,1,240,"No-Show (Faltou)",240,0.47
+MED-0476,PAC-42300,"Cardiologia",57,"Feminino",1,1,"Noite","Sexta",1,0,336,"Compareceu",0,0.18
+MED-0477,PAC-13443,"Clínica Geral",19,"Feminino",0,33,"Manhã","Quarta",1,1,174,"Compareceu",0,0.46
+MED-0478,PAC-51253,"Ginecologia",29,"Feminino",1,22,"Tarde","Quarta",0,2,259,"Compareceu",0,0.77
+MED-0479,PAC-35730,"Ortopedia",77,"Masculino",1,1,"Noite","Quinta",1,0,258,"No-Show (Faltou)",258,0.15
+MED-0480,PAC-26874,"Clínica Geral",70,"Feminino",1,29,"Noite","Quarta",1,0,178,"No-Show (Faltou)",178,0.27
+MED-0481,PAC-84684,"Ortopedia",53,"Masculino",1,13,"Noite","Quinta",1,1,266,"No-Show (Faltou)",266,0.4
+MED-0482,PAC-89161,"Clínica Geral",72,"Masculino",1,28,"Tarde","Sábado",0,0,187,"No-Show (Faltou)",187,0.46
+MED-0483,PAC-10304,"Dermatologia",35,"Masculino",1,9,"Manhã","Segunda",0,0,279,"No-Show (Faltou)",279,0.51
+MED-0484,PAC-88114,"Neurologia",56,"Masculino",0,37,"Noite","Quarta",1,0,399,"No-Show (Faltou)",399,0.38
+MED-0485,PAC-22591,"Ginecologia",44,"Masculino",0,2,"Manhã","Segunda",1,0,242,"No-Show (Faltou)",242,0.24
+MED-0486,PAC-53735,"Clínica Geral",45,"Feminino",1,20,"Manhã","Terça",1,0,187,"No-Show (Faltou)",187,0.17
+MED-0487,PAC-61545,"Clínica Geral",37,"Feminino",1,1,"Manhã","Sábado",1,0,198,"Compareceu",0,0.09
+MED-0488,PAC-16022,"Ginecologia",63,"Feminino",0,3,"Manhã","Sexta",0,0,224,"Compareceu",0,0.43
+MED-0489,PAC-67165,"Neurologia",34,"Masculino",0,16,"Noite","Terça",1,3,391,"No-Show (Faltou)",391,0.64
+MED-0490,PAC-94976,"Clínica Geral",62,"Masculino",1,34,"Tarde","Terça",1,0,185,"Compareceu",0,0.22
+MED-0491,PAC-69452,"Ortopedia",58,"Feminino",1,32,"Manhã","Segunda",0,0,253,"Compareceu",0,0.63
+MED-0492,PAC-50596,"Ginecologia",67,"Masculino",1,2,"Manhã","Sábado",0,0,241,"Compareceu",0,0.3
+MED-0493,PAC-98406,"Ginecologia",66,"Masculino",0,9,"Tarde","Segunda",1,0,258,"Compareceu",0,0.19
+MED-0494,PAC-92883,"Dermatologia",33,"Feminino",0,4,"Tarde","Terça",0,0,278,"Compareceu",0,0.52
+MED-0495,PAC-94027,"Neurologia",79,"Masculino",1,9,"Manhã","Terça",1,0,399,"Compareceu",0,0.03
+MED-0496,PAC-71837,"Dermatologia",46,"Feminino",1,14,"Noite","Quinta",1,0,307,"Compareceu",0,0.34
+MED-0497,PAC-86314,"Neurologia",50,"Masculino",0,5,"Tarde","Sábado",1,0,390,"No-Show (Faltou)",390,0.15
+MED-0498,PAC-17457,"Neurologia",66,"Feminino",1,7,"Noite","Segunda",1,0,363,"Compareceu",0,0.14
+MED-0499,PAC-15267,"Ginecologia",73,"Masculino",1,7,"Manhã","Sexta",1,0,244,"Compareceu",0,0.12
+MED-0500,PAC-49744,"Ginecologia",45,"Feminino",0,37,"Tarde","Quarta",1,0,258,"No-Show (Faltou)",258,0.36
+MED-0501,PAC-90888,"Ginecologia",33,"Feminino",0,34,"Manhã","Sexta",0,2,254,"No-Show (Faltou)",254,0.9
+MED-0502,PAC-18698,"Clínica Geral",76,"Masculino",0,28,"Manhã","Quinta",0,2,197,"No-Show (Faltou)",197,0.77
+MED-0503,PAC-73175,"Clínica Geral",22,"Feminino",0,7,"Noite","Quarta",0,0,194,"No-Show (Faltou)",194,0.45
+MED-0504,PAC-44318,"Neurologia",42,"Feminino",0,2,"Manhã","Segunda",1,1,371,"Compareceu",0,0.33
+MED-0505,PAC-82128,"Cardiologia",56,"Feminino",0,36,"Noite","Segunda",1,0,336,"No-Show (Faltou)",336,0.43
+MED-0506,PAC-66605,"Clínica Geral",37,"Masculino",1,8,"Manhã","Segunda",1,0,175,"Compareceu",0,0.15
+MED-0507,PAC-57749,"Dermatologia",32,"Feminino",0,1,"Noite","Sábado",0,0,285,"Compareceu",0,0.57
+MED-0508,PAC-25559,"Cardiologia",19,"Masculino",0,25,"Noite","Terça",1,1,323,"Compareceu",0,0.49
+MED-0509,PAC-30036,"Neurologia",33,"Masculino",0,43,"Noite","Quinta",1,0,384,"Compareceu",0,0.38
+MED-0510,PAC-41179,"Ortopedia",64,"Masculino",0,20,"Manhã","Quinta",1,0,246,"Compareceu",0,0.25
+MED-0511,PAC-28989,"Dermatologia",21,"Masculino",0,4,"Noite","Segunda",1,0,306,"Compareceu",0,0.39
+MED-0512,PAC-53466,"Cardiologia",74,"Masculino",1,10,"Manhã","Quinta",1,0,319,"Compareceu",0,0.03
+MED-0513,PAC-84610,"Dermatologia",75,"Feminino",0,34,"Manhã","Sábado",0,0,294,"No-Show (Faltou)",294,0.65
+MED-0514,PAC-92420,"Neurologia",66,"Feminino",0,8,"Tarde","Quinta",1,0,395,"Compareceu",0,0.1
+MED-0515,PAC-46897,"Ortopedia",26,"Feminino",0,11,"Tarde","Quarta",1,1,241,"No-Show (Faltou)",241,0.42
+MED-0516,PAC-98040,"Dermatologia",63,"Masculino",0,29,"Noite","Sábado",0,0,298,"Compareceu",0,0.7
+MED-0517,PAC-35851,"Dermatologia",26,"Masculino",0,3,"Noite","Sexta",1,0,292,"Compareceu",0,0.39
+MED-0518,PAC-10327,"Clínica Geral",23,"Feminino",0,2,"Manhã","Sexta",1,1,170,"No-Show (Faltou)",170,0.34
+MED-0519,PAC-81471,"Ortopedia",30,"Masculino",1,10,"Manhã","Quarta",1,0,258,"Compareceu",0,0.15
+MED-0520,PAC-39281,"Cardiologia",29,"Masculino",0,20,"Tarde","Quinta",0,0,335,"No-Show (Faltou)",335,0.46
+MED-0521,PAC-33758,"Ginecologia",60,"Feminino",0,13,"Noite","Sexta",1,0,225,"No-Show (Faltou)",225,0.37
+MED-0522,PAC-34902,"Dermatologia",39,"Masculino",0,21,"Manhã","Sexta",0,0,306,"Compareceu",0,0.66
+MED-0523,PAC-12712,"Ginecologia",76,"Feminino",0,27,"Manhã","Segunda",1,1,254,"Compareceu",0,0.49
+MED-0524,PAC-27189,"Ginecologia",18,"Masculino",0,15,"Noite","Quinta",0,1,247,"No-Show (Faltou)",247,0.67
+MED-0525,PAC-48332,"Dermatologia",29,"Feminino",1,17,"Manhã","Sexta",0,1,270,"No-Show (Faltou)",270,0.71
+MED-0526,PAC-46142,"Ortopedia",34,"Masculino",0,17,"Tarde","Terça",1,0,261,"No-Show (Faltou)",261,0.3
+MED-0527,PAC-80619,"Ortopedia",75,"Feminino",1,4,"Tarde","Sábado",0,1,275,"Compareceu",0,0.46
+MED-0528,PAC-31763,"Cardiologia",60,"Feminino",1,2,"Tarde","Quarta",1,0,331,"Compareceu",0,0.07
+MED-0529,PAC-49573,"Neurologia",37,"Masculino",0,1,"Manhã","Segunda",1,0,394,"Compareceu",0,0.21
+MED-0530,PAC-14050,"Dermatologia",47,"Feminino",0,17,"Manhã","Segunda",1,0,301,"Compareceu",0,0.42
+MED-0531,PAC-75193,"Ginecologia",72,"Feminino",1,10,"Tarde","Quinta",1,2,228,"Compareceu",0,0.3
+MED-0532,PAC-23003,"Clínica Geral",21,"Feminino",0,3,"Noite","Quinta",1,0,193,"Compareceu",0,0.21
+MED-0533,PAC-97480,"Neurologia",66,"Masculino",0,19,"Manhã","Sexta",1,1,373,"No-Show (Faltou)",373,0.36
+MED-0534,PAC-88624,"Ginecologia",59,"Feminino",1,7,"Manhã","Quinta",1,0,232,"Compareceu",0,0.11
+MED-0535,PAC-56434,"Neurologia",43,"Masculino",0,40,"Manhã","Sexta",0,2,380,"No-Show (Faltou)",380,0.87
+MED-0536,PAC-60911,"Ginecologia",61,"Masculino",1,6,"Manhã","Segunda",1,1,241,"Compareceu",0,0.24
+MED-0537,PAC-72054,"Cardiologia",27,"Masculino",0,34,"Tarde","Terça",1,1,303,"No-Show (Faltou)",303,0.44
+MED-0538,PAC-59864,"Ortopedia",46,"Masculino",0,13,"Manhã","Sexta",0,0,273,"No-Show (Faltou)",273,0.6
+MED-0539,PAC-84341,"Clínica Geral",35,"Masculino",0,21,"Tarde","Terça",0,0,176,"No-Show (Faltou)",176,0.48
+MED-0540,PAC-25485,"Ginecologia",36,"Feminino",0,3,"Tarde","Quarta",1,0,241,"No-Show (Faltou)",241,0.18
+MED-0541,PAC-33295,"Dermatologia",28,"Feminino",0,19,"Tarde","Terça",0,0,302,"Compareceu",0,0.6
+MED-0542,PAC-77772,"Clínica Geral",53,"Feminino",1,23,"Tarde","Sábado",1,1,198,"Compareceu",0,0.39
+MED-0543,PAC-38915,"Ginecologia",26,"Masculino",0,1,"Manhã","Quarta",1,0,245,"Compareceu",0,0.18
+MED-0544,PAC-66726,"Ginecologia",52,"Masculino",0,10,"Noite","Quarta",1,0,239,"Compareceu",0,0.23
+MED-0545,PAC-41202,"Neurologia",48,"Feminino",0,9,"Tarde","Quarta",1,1,367,"Compareceu",0,0.27
+MED-0546,PAC-22346,"Clínica Geral",57,"Masculino",1,21,"Tarde","Segunda",1,0,176,"Compareceu",0,0.23
+MED-0547,PAC-70156,"Clínica Geral",55,"Masculino",1,34,"Noite","Terça",1,1,192,"Compareceu",0,0.44
+MED-0548,PAC-64633,"Cardiologia",24,"Feminino",0,26,"Noite","Quarta",1,0,302,"Compareceu",0,0.37
+MED-0549,PAC-65777,"Ortopedia",68,"Masculino",1,35,"Tarde","Quarta",1,0,273,"No-Show (Faltou)",273,0.28
+MED-0550,PAC-43587,"Cardiologia",37,"Feminino",0,42,"Manhã","Sexta",1,1,331,"Compareceu",0,0.5
+MED-0551,PAC-58064,"Ortopedia",40,"Masculino",1,27,"Manhã","Segunda",1,1,264,"No-Show (Faltou)",264,0.51
+MED-0552,PAC-79207,"Ortopedia",56,"Feminino",0,30,"Manhã","Terça",1,1,277,"Compareceu",0,0.52
+MED-0553,PAC-77017,"Clínica Geral",62,"Masculino",0,30,"Tarde","Sábado",0,0,178,"Compareceu",0,0.53
+MED-0554,PAC-21494,"Clínica Geral",36,"Feminino",0,13,"Noite","Quinta",1,1,192,"No-Show (Faltou)",192,0.41
+MED-0555,PAC-62638,"Clínica Geral",24,"Feminino",0,10,"Tarde","Sábado",1,0,188,"Compareceu",0,0.16
+MED-0556,PAC-80448,"Ginecologia",65,"Masculino",1,7,"Tarde","Sexta",1,0,251,"Compareceu",0,0.12
+MED-0557,PAC-44925,"Ginecologia",77,"Feminino",1,31,"Manhã","Quinta",1,0,248,"No-Show (Faltou)",248,0.24
+MED-0558,PAC-16068,"Ortopedia",33,"Feminino",0,21,"Tarde","Terça",1,0,245,"Compareceu",0,0.3
+MED-0559,PAC-53878,"Neurologia",46,"Feminino",0,12,"Manhã","Terça",0,0,390,"No-Show (Faltou)",390,0.47
+MED-0560,PAC-38355,"Ginecologia",29,"Masculino",0,32,"Tarde","Quarta",1,1,230,"Compareceu",0,0.48
+MED-0561,PAC-29499,"Ortopedia",24,"Feminino",1,17,"Manhã","Terça",1,0,249,"Compareceu",0,0.23
+MED-0562,PAC-87309,"Dermatologia",72,"Masculino",0,5,"Manhã","Quarta",1,0,287,"Compareceu",0,0.23
+MED-0563,PAC-91786,"Ortopedia",25,"Masculino",0,17,"Manhã","Sexta",0,2,258,"No-Show (Faltou)",258,0.84
+MED-0564,PAC-12929,"Neurologia",53,"Masculino",1,3,"Tarde","Sexta",0,1,360,"Compareceu",0,0.5
+MED-0565,PAC-90739,"Cardiologia",76,"Masculino",1,25,"Manhã","Terça",1,0,330,"Compareceu",0,0.2
+MED-0566,PAC-25216,"Dermatologia",63,"Masculino",0,36,"Tarde","Sexta",1,0,283,"Compareceu",0,0.47
+MED-0567,PAC-56360,"Cardiologia",65,"Feminino",0,10,"Tarde","Segunda",1,1,318,"Compareceu",0,0.27
+MED-0568,PAC-64170,"Ortopedia",55,"Feminino",1,32,"Noite","Sexta",1,0,269,"No-Show (Faltou)",269,0.44
+MED-0569,PAC-18647,"Neurologia",19,"Feminino",0,37,"Noite","Quinta",0,2,395,"No-Show (Faltou)",395,0.86
+MED-0570,PAC-69790,"Cardiologia",52,"Masculino",1,7,"Manhã","Segunda",1,0,322,"Compareceu",0,0.13
+MED-0571,PAC-97601,"Cardiologia",19,"Masculino",0,22,"Manhã","Sábado",1,0,316,"Compareceu",0,0.32
+MED-0572,PAC-72077,"Ginecologia",78,"Feminino",1,21,"Tarde","Sábado",1,2,224,"No-Show (Faltou)",224,0.38
+MED-0573,PAC-53221,"Neurologia",22,"Masculino",0,35,"Tarde","Quinta",0,0,373,"No-Show (Faltou)",373,0.57
+MED-0574,PAC-11031,"Dermatologia",21,"Masculino",0,2,"Noite","Sexta",1,1,299,"No-Show (Faltou)",299,0.51
+MED-0575,PAC-95508,"Clínica Geral",50,"Feminino",0,41,"Manhã","Sábado",0,0,199,"No-Show (Faltou)",199,0.58
+MED-0576,PAC-96652,"Cardiologia",30,"Masculino",0,3,"Noite","Sábado",1,0,330,"Compareceu",0,0.19
+MED-0577,PAC-74462,"Clínica Geral",65,"Feminino",1,6,"Tarde","Terça",1,3,188,"No-Show (Faltou)",188,0.4
+MED-0578,PAC-88939,"Clínica Geral",69,"Masculino",0,43,"Manhã","Sexta",1,2,181,"Compareceu",0,0.59
+MED-0579,PAC-20082,"Cardiologia",21,"Feminino",0,1,"Tarde","Sábado",1,3,334,"No-Show (Faltou)",334,0.5
+MED-0580,PAC-17892,"Neurologia",26,"Masculino",0,1,"Noite","Quarta",1,1,375,"No-Show (Faltou)",375,0.32
+MED-0581,PAC-52369,"Neurologia",64,"Feminino",1,25,"Noite","Segunda",1,2,389,"Compareceu",0,0.56
+MED-0582,PAC-93513,"Dermatologia",50,"Feminino",1,22,"Noite","Quinta",0,0,295,"No-Show (Faltou)",295,0.68
+MED-0583,PAC-21323,"Ortopedia",28,"Masculino",0,17,"Tarde","Terça",0,0,268,"No-Show (Faltou)",268,0.54
+MED-0584,PAC-75800,"Cardiologia",38,"Feminino",1,1,"Tarde","Terça",0,0,325,"Compareceu",0,0.31
+MED-0585,PAC-46943,"Clínica Geral",61,"Feminino",1,35,"Noite","Sexta",1,0,162,"Compareceu",0,0.33
+MED-0586,PAC-84753,"Ginecologia",75,"Feminino",1,24,"Manhã","Sexta",1,0,247,"Compareceu",0,0.3
+MED-0587,PAC-69230,"Ortopedia",56,"Masculino",1,2,"Tarde","Sábado",1,3,247,"No-Show (Faltou)",247,0.51
+MED-0588,PAC-60374,"Clínica Geral",49,"Feminino",0,31,"Tarde","Sexta",1,0,167,"No-Show (Faltou)",167,0.4
+MED-0589,PAC-28184,"Ortopedia",34,"Masculino",0,15,"Tarde","Segunda",1,0,254,"No-Show (Faltou)",254,0.36
+MED-0590,PAC-32661,"Clínica Geral",51,"Masculino",0,30,"Tarde","Terça",1,3,175,"No-Show (Faltou)",175,0.7
+MED-0591,PAC-43804,"Dermatologia",20,"Masculino",0,11,"Noite","Quarta",1,2,307,"No-Show (Faltou)",307,0.65
+MED-0592,PAC-31614,"Neurologia",37,"Masculino",1,39,"Tarde","Sábado",1,0,387,"No-Show (Faltou)",387,0.26
+MED-0593,PAC-56091,"Ginecologia",27,"Masculino",0,3,"Noite","Quarta",1,0,230,"No-Show (Faltou)",230,0.23
+MED-0594,PAC-87235,"Clínica Geral",28,"Feminino",0,22,"Noite","Sexta",0,1,175,"No-Show (Faltou)",175,0.81
+MED-0595,PAC-95045,"Cardiologia",21,"Feminino",0,2,"Noite","Quarta",1,0,326,"Compareceu",0,0.19
+MED-0596,PAC-49522,"Ginecologia",43,"Feminino",1,4,"Noite","Segunda",1,3,252,"Compareceu",0,0.58
+MED-0597,PAC-10665,"Clínica Geral",19,"Masculino",0,18,"Tarde","Quinta",0,0,179,"No-Show (Faltou)",179,0.48
+MED-0598,PAC-38476,"Clínica Geral",42,"Masculino",0,36,"Manhã","Quinta",1,0,173,"Compareceu",0,0.34
+MED-0599,PAC-12952,"Ortopedia",39,"Feminino",0,35,"Noite","Quinta",1,0,241,"Compareceu",0,0.45
+MED-0600,PAC-84096,"Dermatologia",47,"Masculino",0,3,"Noite","Terça",1,0,280,"Compareceu",0,0.33
+MED-0601,PAC-41906,"Ginecologia",46,"Masculino",1,10,"Manhã","Quarta",0,2,246,"Compareceu",0,0.59
+MED-0602,PAC-36383,"Dermatologia",18,"Feminino",0,5,"Manhã","Quinta",1,0,306,"Compareceu",0,0.28
+MED-0603,PAC-37527,"Neurologia",58,"Masculino",0,11,"Noite","Quinta",0,0,387,"No-Show (Faltou)",387,0.52
+MED-0604,PAC-15337,"Dermatologia",28,"Feminino",0,16,"Noite","Sábado",0,0,296,"No-Show (Faltou)",296,0.65
+MED-0605,PAC-29814,"Neurologia",31,"Masculino",0,6,"Tarde","Terça",0,0,378,"No-Show (Faltou)",378,0.39
+MED-0606,PAC-50957,"Neurologia",46,"Feminino",0,8,"Tarde","Quarta",0,0,391,"Compareceu",0,0.39
+MED-0607,PAC-48767,"Ginecologia",52,"Masculino",1,8,"Noite","Segunda",1,1,232,"Compareceu",0,0.34
+MED-0608,PAC-83244,"Ginecologia",28,"Feminino",0,40,"Manhã","Sexta",0,0,247,"No-Show (Faltou)",247,0.66
+MED-0609,PAC-34388,"Ginecologia",18,"Feminino",0,36,"Noite","Segunda",1,0,242,"Compareceu",0,0.47
+MED-0610,PAC-52198,"Cardiologia",55,"Masculino",1,30,"Noite","Sábado",1,0,325,"Compareceu",0,0.3
+MED-0611,PAC-16675,"Clínica Geral",67,"Feminino",0,8,"Tarde","Sexta",1,1,182,"No-Show (Faltou)",182,0.29
+MED-0612,PAC-77818,"Neurologia",25,"Feminino",1,3,"Noite","Quarta",0,0,399,"Compareceu",0,0.37
+MED-0613,PAC-25628,"Ortopedia",36,"Feminino",0,38,"Tarde","Quarta",1,0,265,"No-Show (Faltou)",265,0.4
+MED-0614,PAC-10105,"Clínica Geral",21,"Masculino",0,9,"Noite","Quinta",1,0,164,"Compareceu",0,0.21
+MED-0615,PAC-91249,"Neurologia",79,"Feminino",0,2,"Tarde","Quarta",1,1,364,"Compareceu",0,0.22
+MED-0616,PAC-59059,"Cardiologia",62,"Masculino",1,27,"Tarde","Quinta",0,0,311,"Compareceu",0,0.44
+MED-0617,PAC-63536,"Neurologia",18,"Masculino",0,1,"Tarde","Sábado",1,0,372,"Compareceu",0,0.15
+MED-0618,PAC-74679,"Ginecologia",44,"Masculino",0,22,"Noite","Sábado",1,3,254,"Compareceu",0,0.77
+MED-0619,PAC-62489,"Dermatologia",65,"Masculino",1,5,"Tarde","Quarta",1,0,294,"Compareceu",0,0.16
+MED-0620,PAC-86966,"Cardiologia",53,"Masculino",1,12,"Manhã","Sábado",0,1,307,"Compareceu",0,0.51
+MED-0621,PAC-28110,"Dermatologia",54,"Feminino",1,36,"Noite","Terça",1,2,282,"No-Show (Faltou)",282,0.68
+MED-0622,PAC-35920,"Neurologia",45,"Feminino",0,9,"Manhã","Sábado",0,1,384,"No-Show (Faltou)",384,0.51
+MED-0623,PAC-80397,"Ortopedia",72,"Feminino",1,13,"Manhã","Sexta",1,0,269,"No-Show (Faltou)",269,0.24
+MED-0624,PAC-41540,"Dermatologia",43,"Masculino",1,31,"Tarde","Terça",1,0,286,"Compareceu",0,0.39
+MED-0625,PAC-69351,"Dermatologia",72,"Masculino",1,3,"Tarde","Segunda",1,0,280,"Compareceu",0,0.22
+MED-0626,PAC-43827,"Clínica Geral",68,"Feminino",1,3,"Noite","Segunda",1,0,198,"Compareceu",0,0.15
+MED-0627,PAC-24971,"Ortopedia",77,"Masculino",1,11,"Manhã","Sábado",1,0,247,"No-Show (Faltou)",247,0.18
+MED-0628,PAC-72781,"Ortopedia",75,"Masculino",0,22,"Manhã","Sábado",1,0,263,"Compareceu",0,0.35
+MED-0629,PAC-67258,"Ginecologia",41,"Feminino",1,15,"Tarde","Terça",1,1,253,"No-Show (Faltou)",253,0.31
+MED-0630,PAC-68402,"Dermatologia",22,"Masculino",0,23,"Manhã","Segunda",1,0,294,"Compareceu",0,0.52
+MED-0631,PAC-46212,"Ginecologia",55,"Feminino",1,29,"Noite","Quarta",1,0,243,"No-Show (Faltou)",243,0.34
+MED-0632,PAC-60689,"Ginecologia",59,"Masculino",1,16,"Tarde","Sábado",1,0,235,"Compareceu",0,0.19
+MED-0633,PAC-81832,"Dermatologia",76,"Feminino",1,19,"Noite","Segunda",1,0,298,"No-Show (Faltou)",298,0.35
+MED-0634,PAC-79642,"Ortopedia",19,"Masculino",0,19,"Manhã","Quinta",0,2,249,"No-Show (Faltou)",249,0.78
+MED-0635,PAC-24119,"Ortopedia",54,"Feminino",0,5,"Manhã","Terça",1,0,264,"Compareceu",0,0.22
+MED-0636,PAC-65263,"Ortopedia",41,"Feminino",0,3,"Manhã","Sexta",1,0,259,"No-Show (Faltou)",259,0.28
+MED-0637,PAC-83073,"Neurologia",21,"Masculino",0,1,"Manhã","Quinta",1,0,382,"Compareceu",0,0.15
+MED-0638,PAC-47550,"Dermatologia",29,"Feminino",0,19,"Noite","Quarta",1,1,289,"Compareceu",0,0.53
+MED-0639,PAC-18693,"Ginecologia",51,"Feminino",0,11,"Manhã","Sábado",1,0,256,"Compareceu",0,0.26
+MED-0640,PAC-56503,"Clínica Geral",65,"Feminino",1,4,"Tarde","Segunda",0,0,182,"Compareceu",0,0.34
+MED-0641,PAC-40980,"Neurologia",46,"Masculino",0,20,"Noite","Segunda",0,0,361,"No-Show (Faltou)",361,0.58
+MED-0642,PAC-32124,"Ginecologia",40,"Feminino",0,8,"Noite","Sábado",1,1,221,"No-Show (Faltou)",221,0.35
+MED-0643,PAC-89934,"Neurologia",25,"Masculino",1,42,"Noite","Terça",1,0,368,"No-Show (Faltou)",368,0.31
+MED-0644,PAC-94411,"Ginecologia",42,"Masculino",0,8,"Noite","Quinta",0,0,229,"No-Show (Faltou)",229,0.47
+MED-0645,PAC-15554,"Cardiologia",73,"Masculino",1,37,"Manhã","Quinta",0,0,331,"No-Show (Faltou)",331,0.44
+MED-0646,PAC-93364,"Ginecologia",28,"Masculino",0,14,"Noite","Segunda",1,1,241,"No-Show (Faltou)",241,0.49
+MED-0647,PAC-27841,"Clínica Geral",20,"Masculino",0,23,"Manhã","Quinta",1,1,165,"No-Show (Faltou)",165,0.46
+MED-0648,PAC-58985,"Ginecologia",20,"Feminino",0,3,"Manhã","Sábado",1,3,229,"No-Show (Faltou)",229,0.54
+MED-0649,PAC-66795,"Dermatologia",75,"Feminino",1,21,"Manhã","Quinta",1,2,291,"Compareceu",0,0.48
+MED-0650,PAC-21272,"Clínica Geral",34,"Feminino",0,25,"Manhã","Terça",0,0,186,"Compareceu",0,0.58
+MED-0651,PAC-72415,"Ginecologia",72,"Masculino",0,2,"Noite","Sexta",1,0,233,"Compareceu",0,0.24
+MED-0652,PAC-10226,"Ginecologia",33,"Masculino",1,12,"Tarde","Sexta",1,0,227,"Compareceu",0,0.25
+MED-0653,PAC-74702,"Neurologia",30,"Feminino",1,11,"Manhã","Sexta",1,0,395,"Compareceu",0,0.22
+MED-0654,PAC-55846,"Cardiologia",38,"Feminino",0,23,"Manhã","Quarta",0,1,304,"No-Show (Faltou)",304,0.68
+MED-0655,PAC-13656,"Clínica Geral",36,"Masculino",0,36,"Tarde","Quinta",1,0,180,"Compareceu",0,0.34
+MED-0656,PAC-98133,"Cardiologia",70,"Feminino",0,28,"Tarde","Sexta",0,1,330,"No-Show (Faltou)",330,0.69
+MED-0657,PAC-99277,"Ortopedia",48,"Masculino",0,37,"Manhã","Sexta",1,0,261,"No-Show (Faltou)",261,0.46
+MED-0658,PAC-77087,"Cardiologia",21,"Feminino",1,1,"Manhã","Segunda",1,0,320,"Compareceu",0,0.13
+MED-0659,PAC-91564,"Ortopedia",23,"Feminino",0,30,"Noite","Quinta",1,0,252,"No-Show (Faltou)",252,0.45
+MED-0660,PAC-22707,"Ortopedia",37,"Feminino",0,32,"Noite","Sexta",1,0,265,"Compareceu",0,0.51
+MED-0661,PAC-20517,"Clínica Geral",42,"Masculino",1,33,"Manhã","Terça",1,0,166,"Compareceu",0,0.27
+MED-0662,PAC-54994,"Clínica Geral",20,"Feminino",0,14,"Tarde","Sábado",1,0,181,"Compareceu",0,0.24
+MED-0663,PAC-96138,"Clínica Geral",70,"Feminino",0,12,"Manhã","Terça",0,0,176,"Compareceu",0,0.43
+MED-0664,PAC-23948,"Dermatologia",45,"Masculino",0,8,"Manhã","Segunda",0,0,289,"Compareceu",0,0.58
+MED-0665,PAC-78425,"Ginecologia",56,"Feminino",1,33,"Noite","Sábado",1,2,236,"No-Show (Faltou)",236,0.58
+MED-0666,PAC-49568,"Ortopedia",18,"Feminino",0,23,"Manhã","Quinta",1,0,274,"Compareceu",0,0.4
+MED-0667,PAC-87378,"Neurologia",28,"Feminino",1,13,"Noite","Quinta",1,0,379,"Compareceu",0,0.21
+MED-0668,PAC-71855,"Ginecologia",75,"Masculino",1,34,"Manhã","Sexta",1,0,258,"Compareceu",0,0.3
+MED-0669,PAC-62999,"Ortopedia",68,"Feminino",1,19,"Noite","Quinta",1,2,278,"Compareceu",0,0.47
+MED-0670,PAC-30809,"Dermatologia",51,"Masculino",1,6,"Manhã","Sexta",1,0,275,"Compareceu",0,0.27
+MED-0671,PAC-35286,"Ortopedia",71,"Masculino",1,18,"Noite","Segunda",1,0,246,"Compareceu",0,0.29
+MED-0672,PAC-46429,"Clínica Geral",35,"Masculino",0,4,"Manhã","Segunda",1,0,188,"Compareceu",0,0.22
+MED-0673,PAC-34239,"Cardiologia",55,"Masculino",0,27,"Noite","Quinta",1,1,318,"Compareceu",0,0.49
+MED-0674,PAC-58716,"Dermatologia",43,"Masculino",1,38,"Tarde","Terça",1,2,272,"No-Show (Faltou)",272,0.63
+MED-0675,PAC-89860,"Ortopedia",44,"Feminino",1,12,"Manhã","Quarta",0,0,246,"Compareceu",0,0.47
+MED-0676,PAC-97670,"Ortopedia",36,"Feminino",1,35,"Tarde","Segunda",1,3,258,"No-Show (Faltou)",258,0.75
+MED-0677,PAC-52147,"Neurologia",62,"Feminino",0,40,"Tarde","Sábado",1,0,383,"No-Show (Faltou)",383,0.28
+MED-0678,PAC-13290,"Cardiologia",34,"Masculino",0,9,"Manhã","Quarta",0,0,310,"Compareceu",0,0.38
+MED-0679,PAC-41101,"Ortopedia",61,"Masculino",0,24,"Noite","Terça",0,1,244,"No-Show (Faltou)",244,0.76
+MED-0680,PAC-15577,"Ginecologia",57,"Feminino",0,23,"Manhã","Terça",0,0,252,"No-Show (Faltou)",252,0.6
+MED-0681,PAC-86721,"Neurologia",66,"Feminino",1,37,"Tarde","Segunda",1,1,361,"No-Show (Faltou)",361,0.39
+MED-0682,PAC-44531,"Neurologia",65,"Masculino",1,3,"Tarde","Segunda",0,0,377,"Compareceu",0,0.33
+MED-0683,PAC-39008,"Clínica Geral",32,"Feminino",0,1,"Noite","Quarta",1,3,187,"No-Show (Faltou)",187,0.57
+MED-0684,PAC-40152,"Cardiologia",78,"Masculino",1,4,"Tarde","Terça",0,1,318,"Compareceu",0,0.38
+MED-0685,PAC-17962,"Clínica Geral",45,"Feminino",0,7,"Manhã","Sexta",0,0,177,"No-Show (Faltou)",177,0.46
+MED-0686,PAC-32439,"Clínica Geral",49,"Feminino",0,1,"Noite","Segunda",0,0,169,"Compareceu",0,0.51
+MED-0687,PAC-53582,"Cardiologia",65,"Feminino",1,2,"Manhã","Terça",0,0,322,"No-Show (Faltou)",322,0.26
+MED-0688,PAC-51392,"Neurologia",71,"Masculino",0,2,"Tarde","Sábado",1,0,363,"Compareceu",0,0.1
+MED-0689,PAC-85869,"Neurologia",44,"Feminino",0,27,"Noite","Quinta",0,0,378,"Compareceu",0,0.62
+MED-0690,PAC-37013,"Neurologia",32,"Feminino",0,24,"Tarde","Sábado",1,0,373,"No-Show (Faltou)",373,0.33
+MED-0691,PAC-54823,"Ortopedia",75,"Masculino",1,19,"Tarde","Sexta",1,0,256,"Compareceu",0,0.24
+MED-0692,PAC-19300,"Cardiologia",21,"Feminino",0,2,"Manhã","Quinta",1,3,313,"Compareceu",0,0.5
+MED-0693,PAC-80443,"Cardiologia",41,"Feminino",0,38,"Tarde","Terça",0,0,331,"Compareceu",0,0.56
+MED-0694,PAC-28253,"Ginecologia",55,"Feminino",0,26,"Noite","Terça",1,1,236,"Compareceu",0,0.53
+MED-0695,PAC-12730,"Ortopedia",36,"Masculino",0,3,"Manhã","Terça",1,0,275,"No-Show (Faltou)",275,0.22
+MED-0696,PAC-93874,"Clínica Geral",31,"Feminino",0,33,"Manhã","Segunda",1,0,195,"No-Show (Faltou)",195,0.4
+MED-0697,PAC-61684,"Ginecologia",19,"Masculino",0,16,"Manhã","Quarta",0,0,222,"No-Show (Faltou)",222,0.5
+MED-0698,PAC-66161,"Clínica Geral",33,"Masculino",1,32,"Manhã","Sexta",1,0,163,"No-Show (Faltou)",163,0.33
+MED-0699,PAC-77304,"Dermatologia",63,"Masculino",0,12,"Tarde","Sexta",1,0,296,"Compareceu",0,0.37
+MED-0700,PAC-65114,"Clínica Geral",20,"Masculino",0,42,"Manhã","Terça",1,2,175,"No-Show (Faltou)",175,0.58
+MED-0701,PAC-89591,"Ginecologia",73,"Masculino",1,4,"Tarde","Sexta",0,0,259,"No-Show (Faltou)",259,0.36
+MED-0702,PAC-30735,"Clínica Geral",74,"Feminino",0,24,"Tarde","Segunda",1,0,163,"No-Show (Faltou)",163,0.35
+MED-0703,PAC-38545,"Cardiologia",64,"Feminino",0,3,"Tarde","Sexta",0,0,315,"Compareceu",0,0.39
+MED-0704,PAC-83022,"Dermatologia",25,"Feminino",0,5,"Noite","Quarta",1,0,291,"Compareceu",0,0.33
+MED-0705,PAC-44165,"Clínica Geral",61,"Masculino",1,20,"Manhã","Segunda",1,1,167,"Compareceu",0,0.3
+MED-0706,PAC-71976,"Clínica Geral",25,"Masculino",0,39,"Noite","Sábado",1,1,161,"No-Show (Faltou)",161,0.51
+MED-0707,PAC-46452,"Ortopedia",22,"Feminino",0,37,"Tarde","Sábado",1,0,269,"Compareceu",0,0.4
+MED-0708,PAC-27596,"Dermatologia",29,"Feminino",1,4,"Tarde","Quinta",1,3,308,"No-Show (Faltou)",308,0.57
+MED-0709,PAC-75406,"Ginecologia",28,"Masculino",0,12,"Noite","Sexta",1,0,234,"Compareceu",0,0.37
+MED-0710,PAC-69883,"Neurologia",59,"Feminino",1,7,"Noite","Sábado",1,0,384,"Compareceu",0,0.13
+MED-0711,PAC-71027,"Clínica Geral",38,"Masculino",1,12,"Tarde","Sábado",1,1,175,"No-Show (Faltou)",175,0.29
+MED-0712,PAC-48837,"Dermatologia",75,"Feminino",0,18,"Tarde","Terça",1,0,284,"Compareceu",0,0.31
+MED-0713,PAC-63314,"Neurologia",79,"Feminino",1,8,"Manhã","Sexta",1,0,366,"Compareceu",0,0.09
+MED-0714,PAC-84457,"Neurologia",28,"Feminino",0,9,"Manhã","Sábado",1,0,379,"Compareceu",0,0.15
+MED-0715,PAC-82267,"Dermatologia",33,"Masculino",0,10,"Tarde","Quarta",0,0,270,"Compareceu",0,0.52
+MED-0716,PAC-26744,"Dermatologia",74,"Feminino",1,42,"Noite","Segunda",1,0,285,"No-Show (Faltou)",285,0.45
+MED-0717,PAC-67888,"Ginecologia",59,"Feminino",1,38,"Tarde","Quarta",1,0,230,"Compareceu",0,0.29
+MED-0718,PAC-85698,"Cardiologia",36,"Masculino",0,32,"Tarde","Terça",1,0,313,"Compareceu",0,0.32
+MED-0719,PAC-50175,"Clínica Geral",46,"Feminino",0,10,"Manhã","Segunda",1,0,170,"No-Show (Faltou)",170,0.22
+MED-0720,PAC-21318,"Neurologia",70,"Feminino",1,4,"Tarde","Sexta",1,0,388,"Compareceu",0,0.09
+MED-0721,PAC-59128,"Ortopedia",20,"Feminino",0,41,"Manhã","Sexta",1,1,253,"No-Show (Faltou)",253,0.58
+MED-0722,PAC-43605,"Cardiologia",65,"Masculino",0,11,"Tarde","Sábado",0,0,332,"Compareceu",0,0.41
+MED-0723,PAC-34749,"Neurologia",58,"Masculino",1,2,"Manhã","Sexta",1,0,392,"Compareceu",0,0.14
+MED-0724,PAC-92559,"Cardiologia",42,"Masculino",0,29,"Tarde","Sábado",1,0,339,"Compareceu",0,0.32
+MED-0725,PAC-97036,"Neurologia",60,"Masculino",0,2,"Manhã","Terça",0,0,360,"Compareceu",0,0.39
+MED-0726,PAC-18179,"Ginecologia",26,"Masculino",0,24,"Tarde","Quarta",1,0,243,"Compareceu",0,0.36
+MED-0727,PAC-95989,"Dermatologia",45,"Masculino",0,6,"Manhã","Sexta",1,0,282,"Compareceu",0,0.34
+MED-0728,PAC-30466,"Ortopedia",34,"Masculino",0,13,"Noite","Quarta",1,0,276,"Compareceu",0,0.35
+MED-0729,PAC-61610,"Neurologia",35,"Feminino",0,39,"Noite","Quinta",1,0,360,"Compareceu",0,0.38
+MED-0730,PAC-69420,"Neurologia",28,"Feminino",0,11,"Noite","Terça",1,0,372,"No-Show (Faltou)",372,0.28
+MED-0731,PAC-23897,"Ortopedia",51,"Feminino",1,14,"Noite","Segunda",1,0,258,"No-Show (Faltou)",258,0.34
+MED-0732,PAC-75040,"Dermatologia",25,"Masculino",0,34,"Tarde","Quinta",1,1,274,"No-Show (Faltou)",274,0.58
+MED-0733,PAC-12851,"Neurologia",51,"Masculino",0,4,"Manhã","Quinta",1,2,398,"Compareceu",0,0.39
+MED-0734,PAC-77327,"Cardiologia",47,"Masculino",0,4,"Tarde","Quarta",1,0,326,"Compareceu",0,0.14
+MED-0735,PAC-58471,"Ortopedia",56,"Feminino",0,13,"Noite","Terça",0,0,275,"No-Show (Faltou)",275,0.59
+MED-0736,PAC-16281,"Ortopedia",54,"Masculino",1,24,"Noite","Quarta",1,0,251,"Compareceu",0,0.38
+MED-0737,PAC-10758,"Ginecologia",24,"Feminino",0,17,"Manhã","Quinta",0,0,241,"No-Show (Faltou)",241,0.5
+MED-0738,PAC-11902,"Dermatologia",67,"Masculino",1,25,"Noite","Quinta",1,3,282,"Compareceu",0,0.75
+MED-0739,PAC-79712,"Ginecologia",36,"Feminino",0,31,"Tarde","Sábado",1,0,231,"No-Show (Faltou)",231,0.36
+MED-0740,PAC-94189,"Dermatologia",39,"Feminino",1,18,"Manhã","Terça",1,0,273,"Compareceu",0,0.29
+MED-0741,PAC-25332,"Dermatologia",55,"Feminino",0,20,"Tarde","Quarta",1,0,286,"No-Show (Faltou)",286,0.36
+MED-0742,PAC-23142,"Ortopedia",61,"Masculino",1,21,"Noite","Segunda",1,0,277,"Compareceu",0,0.29
+MED-0743,PAC-57619,"Ortopedia",35,"Feminino",0,6,"Manhã","Sexta",1,0,252,"Compareceu",0,0.28
+MED-0744,PAC-98763,"Ortopedia",24,"Feminino",0,4,"Noite","Segunda",0,1,247,"No-Show (Faltou)",247,0.69
+MED-0745,PAC-26573,"Neurologia",64,"Masculino",1,2,"Noite","Sábado",0,1,370,"No-Show (Faltou)",370,0.44
+MED-0746,PAC-81050,"Neurologia",76,"Feminino",1,21,"Tarde","Sexta",1,0,367,"Compareceu",0,0.17
+MED-0747,PAC-52193,"Dermatologia",32,"Feminino",0,13,"Noite","Quarta",1,0,295,"Compareceu",0,0.41
+MED-0748,PAC-90003,"Clínica Geral",45,"Feminino",0,5,"Manhã","Quarta",1,2,170,"Compareceu",0,0.4
+MED-0749,PAC-74480,"Neurologia",28,"Masculino",0,22,"Tarde","Quarta",1,0,389,"No-Show (Faltou)",389,0.33
+MED-0750,PAC-65624,"Ginecologia",23,"Masculino",1,10,"Tarde","Terça",1,0,249,"Compareceu",0,0.11
+MED-0751,PAC-33434,"Clínica Geral",71,"Masculino",1,1,"Tarde","Quinta",1,0,196,"Compareceu",0,0.04
+MED-0752,PAC-37911,"Dermatologia",24,"Masculino",0,9,"Tarde","Sábado",1,0,308,"Compareceu",0,0.28
+MED-0753,PAC-49054,"Cardiologia",52,"Masculino",1,39,"Noite","Sábado",1,0,320,"Compareceu",0,0.3
+MED-0754,PAC-36864,"Ginecologia",74,"Masculino",1,16,"Tarde","Quarta",1,0,229,"No-Show (Faltou)",229,0.14
+MED-0755,PAC-61341,"Clínica Geral",62,"Masculino",0,25,"Noite","Sábado",1,0,193,"No-Show (Faltou)",193,0.34
+MED-0756,PAC-92485,"Ginecologia",63,"Feminino",1,4,"Noite","Terça",0,0,257,"No-Show (Faltou)",257,0.35
+MED-0757,PAC-10295,"Dermatologia",54,"Feminino",1,23,"Manhã","Sábado",1,0,279,"Compareceu",0,0.39
+MED-0758,PAC-54772,"Cardiologia",19,"Feminino",0,27,"Manhã","Sexta",1,0,315,"Compareceu",0,0.38
+MED-0759,PAC-15915,"Ginecologia",51,"Masculino",1,2,"Tarde","Terça",0,2,221,"No-Show (Faltou)",221,0.59
+MED-0760,PAC-43726,"Ginecologia",18,"Masculino",0,14,"Manhã","Segunda",0,0,255,"No-Show (Faltou)",255,0.56
+MED-0761,PAC-18202,"Neurologia",77,"Masculino",1,12,"Noite","Segunda",0,0,383,"Compareceu",0,0.46
+MED-0762,PAC-89346,"Cardiologia",21,"Feminino",0,25,"Noite","Sexta",1,0,332,"Compareceu",0,0.43
+MED-0763,PAC-47156,"Clínica Geral",20,"Masculino",1,38,"Manhã","Sábado",0,0,168,"Compareceu",0,0.51
+MED-0764,PAC-41633,"Ortopedia",49,"Feminino",0,30,"Manhã","Segunda",1,0,258,"Compareceu",0,0.46
+MED-0765,PAC-42777,"Ginecologia",29,"Masculino",0,39,"Noite","Segunda",0,0,229,"No-Show (Faltou)",229,0.71
+MED-0766,PAC-20587,"Ortopedia",64,"Feminino",1,2,"Noite","Quarta",0,0,248,"Compareceu",0,0.39
+MED-0767,PAC-35064,"Ortopedia",68,"Feminino",0,32,"Tarde","Sábado",0,0,240,"No-Show (Faltou)",240,0.59
+MED-0768,PAC-56207,"Ginecologia",20,"Feminino",0,34,"Tarde","Segunda",0,0,234,"Compareceu",0,0.66
+MED-0769,PAC-54017,"Cardiologia",25,"Masculino",0,35,"Noite","Quinta",1,0,334,"Compareceu",0,0.37
+MED-0770,PAC-88494,"Cardiologia",63,"Feminino",1,16,"Manhã","Terça",0,0,309,"No-Show (Faltou)",309,0.34
+MED-0771,PAC-39638,"Clínica Geral",49,"Feminino",1,13,"Noite","Sexta",1,1,164,"Compareceu",0,0.4
+MED-0772,PAC-57448,"Dermatologia",27,"Masculino",1,9,"Noite","Quarta",1,1,277,"Compareceu",0,0.38
+MED-0773,PAC-21925,"Ginecologia",37,"Feminino",0,35,"Noite","Quarta",0,0,224,"No-Show (Faltou)",224,0.65
+MED-0774,PAC-83068,"Ortopedia",60,"Feminino",1,25,"Noite","Sábado",0,1,262,"No-Show (Faltou)",262,0.74
+MED-0775,PAC-30878,"Neurologia",74,"Feminino",1,15,"Tarde","Sábado",1,3,367,"No-Show (Faltou)",367,0.47
+MED-0776,PAC-15355,"Dermatologia",54,"Masculino",1,37,"Noite","Segunda",1,0,296,"Compareceu",0,0.5
+MED-0777,PAC-96499,"Ortopedia",48,"Masculino",0,21,"Tarde","Sábado",0,0,266,"Compareceu",0,0.54
+MED-0778,PAC-64309,"Dermatologia",33,"Masculino",0,7,"Noite","Segunda",0,1,303,"No-Show (Faltou)",303,0.75
+MED-0779,PAC-68786,"Ortopedia",50,"Masculino",0,20,"Tarde","Quarta",1,0,275,"Compareceu",0,0.3
+MED-0780,PAC-79929,"Clínica Geral",19,"Masculino",0,5,"Manhã","Quinta",1,0,177,"Compareceu",0,0.16
+MED-0781,PAC-67739,"Cardiologia",36,"Masculino",1,29,"Tarde","Segunda",1,0,306,"Compareceu",0,0.31
+MED-0782,PAC-92216,"Neurologia",26,"Masculino",0,40,"Manhã","Quinta",0,0,390,"Compareceu",0,0.57
+MED-0783,PAC-33360,"Ortopedia",27,"Feminino",0,14,"Manhã","Sexta",1,0,274,"Compareceu",0,0.36
+MED-0784,PAC-41170,"Ginecologia",20,"Feminino",0,37,"Manhã","Quinta",0,0,226,"No-Show (Faltou)",226,0.6
+MED-0785,PAC-85647,"Neurologia",42,"Feminino",1,42,"Manhã","Terça",1,0,372,"No-Show (Faltou)",372,0.26
+MED-0786,PAC-46790,"Ortopedia",18,"Masculino",1,10,"Noite","Sexta",1,0,278,"No-Show (Faltou)",278,0.26
+MED-0787,PAC-74601,"Ortopedia",41,"Masculino",0,26,"Tarde","Sexta",1,0,272,"Compareceu",0,0.46
+MED-0788,PAC-49077,"Dermatologia",38,"Masculino",0,25,"Noite","Sexta",1,0,290,"No-Show (Faltou)",290,0.57
+MED-0789,PAC-30221,"Neurologia",46,"Feminino",0,40,"Manhã","Quarta",1,0,389,"No-Show (Faltou)",389,0.33
+MED-0790,PAC-78031,"Neurologia",45,"Masculino",1,4,"Tarde","Quinta",1,0,365,"Compareceu",0,0.08
+MED-0791,PAC-72508,"Clínica Geral",79,"Feminino",1,1,"Tarde","Sexta",1,0,175,"Compareceu",0,0.1
+MED-0792,PAC-73652,"Cardiologia",57,"Masculino",0,5,"Manhã","Sexta",1,0,306,"Compareceu",0,0.2
+MED-0793,PAC-51462,"Clínica Geral",27,"Feminino",0,9,"Noite","Segunda",1,1,165,"No-Show (Faltou)",165,0.39
+MED-0794,PAC-65939,"Cardiologia",30,"Feminino",0,2,"Tarde","Quarta",1,0,337,"Compareceu",0,0.14
+MED-0795,PAC-87082,"Cardiologia",45,"Feminino",0,3,"Noite","Quinta",1,1,311,"No-Show (Faltou)",311,0.31
+MED-0796,PAC-84892,"Neurologia",51,"Masculino",1,3,"Manhã","Terça",1,0,391,"Compareceu",0,0.08
+MED-0797,PAC-29369,"Neurologia",27,"Feminino",0,29,"Tarde","Sábado",1,0,366,"Compareceu",0,0.33
+MED-0798,PAC-70513,"Neurologia",79,"Feminino",0,26,"Manhã","Terça",1,2,361,"No-Show (Faltou)",361,0.52
+MED-0799,PAC-88323,"Ortopedia",54,"Masculino",0,21,"Manhã","Segunda",1,2,244,"No-Show (Faltou)",244,0.6
+MED-0800,PAC-52800,"Ortopedia",65,"Feminino",0,3,"Noite","Sábado",1,0,241,"Compareceu",0,0.22
+MED-0801,PAC-23943,"Cardiologia",24,"Feminino",0,40,"Manhã","Quinta",1,1,319,"Compareceu",0,0.44
+MED-0802,PAC-61753,"Dermatologia",36,"Feminino",0,28,"Tarde","Quinta",1,0,274,"Compareceu",0,0.46
+MED-0803,PAC-46230,"Ortopedia",20,"Masculino",0,4,"Noite","Sexta",0,1,263,"No-Show (Faltou)",263,0.69
+MED-0804,PAC-37374,"Cardiologia",78,"Masculino",0,35,"Noite","Quinta",1,0,323,"Compareceu",0,0.32
+MED-0805,PAC-95184,"Ginecologia",61,"Masculino",1,18,"Noite","Sexta",1,1,250,"No-Show (Faltou)",250,0.37
+MED-0806,PAC-99661,"Cardiologia",18,"Masculino",0,34,"Noite","Segunda",0,1,332,"No-Show (Faltou)",332,0.79
+MED-0807,PAC-20804,"Dermatologia",43,"Masculino",1,14,"Manhã","Segunda",1,0,284,"Compareceu",0,0.35
+MED-0808,PAC-98614,"Clínica Geral",64,"Masculino",0,1,"Noite","Quinta",0,0,163,"No-Show (Faltou)",163,0.4
+MED-0809,PAC-33091,"Ginecologia",52,"Masculino",1,5,"Manhã","Segunda",1,0,247,"Compareceu",0,0.17
+MED-0810,PAC-64235,"Clínica Geral",53,"Feminino",1,26,"Manhã","Quarta",1,0,191,"No-Show (Faltou)",191,0.27
+MED-0811,PAC-72045,"Cardiologia",44,"Feminino",0,4,"Tarde","Segunda",1,0,303,"Compareceu",0,0.2
+MED-0812,PAC-26522,"Dermatologia",71,"Feminino",0,6,"Tarde","Sábado",1,1,279,"Compareceu",0,0.35
+MED-0813,PAC-77665,"Clínica Geral",42,"Masculino",1,22,"Noite","Quarta",1,0,195,"Compareceu",0,0.32
+MED-0814,PAC-15476,"Clínica Geral",71,"Masculino",1,41,"Tarde","Terça",1,0,189,"No-Show (Faltou)",189,0.22
+MED-0815,PAC-79952,"Ortopedia",66,"Masculino",1,39,"Manhã","Terça",1,1,257,"Compareceu",0,0.4
+MED-0816,PAC-61096,"Dermatologia",76,"Feminino",1,5,"Manhã","Sábado",0,0,296,"Compareceu",0,0.4
+MED-0817,PAC-18906,"Ginecologia",74,"Masculino",0,13,"Tarde","Segunda",1,0,222,"Compareceu",0,0.27
+MED-0818,PAC-13383,"Neurologia",40,"Feminino",0,8,"Tarde","Quarta",0,0,373,"Compareceu",0,0.39
+MED-0819,PAC-14527,"Clínica Geral",22,"Masculino",0,14,"Manhã","Terça",1,0,164,"Compareceu",0,0.24
+MED-0820,PAC-82337,"Neurologia",54,"Feminino",1,20,"Manhã","Quinta",1,1,362,"Compareceu",0,0.28
+MED-0821,PAC-96814,"Neurologia",57,"Feminino",1,9,"Noite","Segunda",1,1,394,"No-Show (Faltou)",394,0.31
+MED-0822,PAC-27957,"Clínica Geral",74,"Feminino",1,11,"Noite","Terça",1,1,168,"Compareceu",0,0.29
+MED-0823,PAC-25767,"Dermatologia",18,"Masculino",1,11,"Tarde","Sexta",1,0,298,"Compareceu",0,0.35
+MED-0824,PAC-60244,"Dermatologia",53,"Feminino",0,1,"Tarde","Quarta",1,1,273,"No-Show (Faltou)",273,0.4
+MED-0825,PAC-11388,"Ginecologia",40,"Feminino",0,41,"Manhã","Sábado",0,0,258,"Compareceu",0,0.6
+MED-0826,PAC-29198,"Cardiologia",20,"Masculino",0,35,"Manhã","Quinta",0,0,301,"Compareceu",0,0.56
+MED-0827,PAC-83675,"Clínica Geral",28,"Feminino",0,11,"Manhã","Quinta",1,0,198,"No-Show (Faltou)",198,0.24
+MED-0828,PAC-54818,"Neurologia",50,"Feminino",0,5,"Manhã","Segunda",1,2,376,"Compareceu",0,0.45
+MED-0829,PAC-92628,"Ortopedia",64,"Feminino",1,1,"Noite","Terça",1,0,241,"Compareceu",0,0.15
+MED-0830,PAC-77105,"Cardiologia",45,"Masculino",1,12,"Manhã","Terça",1,1,320,"Compareceu",0,0.27
+MED-0831,PAC-68249,"Neurologia",39,"Masculino",0,3,"Manhã","Segunda",1,0,380,"Compareceu",0,0.21
+MED-0832,PAC-36059,"Cardiologia",25,"Masculino",1,31,"Manhã","Quarta",1,2,327,"Compareceu",0,0.49
+MED-0833,PAC-40536,"Neurologia",41,"Masculino",0,3,"Noite","Quinta",1,1,389,"Compareceu",0,0.32
+MED-0834,PAC-51679,"Ginecologia",72,"Masculino",1,26,"Tarde","Sexta",0,1,231,"Compareceu",0,0.66
+MED-0835,PAC-39489,"Neurologia",27,"Masculino",0,7,"Noite","Terça",1,0,360,"Compareceu",0,0.2
+MED-0836,PAC-63966,"Ortopedia",19,"Masculino",0,15,"Tarde","Sexta",1,0,264,"Compareceu",0,0.36
+MED-0837,PAC-95110,"Neurologia",20,"Feminino",1,41,"Tarde","Segunda",1,0,388,"Compareceu",0,0.32
+MED-0838,PAC-12920,"Clínica Geral",74,"Feminino",1,12,"Tarde","Sexta",1,0,160,"Compareceu",0,0.18
+MED-0839,PAC-57397,"Ortopedia",33,"Feminino",0,16,"Tarde","Quarta",1,1,246,"No-Show (Faltou)",246,0.42
+MED-0840,PAC-18540,"Neurologia",71,"Masculino",0,36,"Manhã","Sábado",0,0,392,"No-Show (Faltou)",392,0.52
+MED-0841,PAC-46351,"Neurologia",32,"Masculino",1,6,"Noite","Sábado",0,0,386,"Compareceu",0,0.37
+MED-0842,PAC-20827,"Cardiologia",29,"Masculino",0,5,"Tarde","Sábado",0,1,314,"No-Show (Faltou)",314,0.5
+MED-0843,PAC-91971,"Ginecologia",37,"Feminino",0,14,"Tarde","Quinta",1,0,243,"No-Show (Faltou)",243,0.26
+MED-0844,PAC-49781,"Ortopedia",35,"Masculino",0,26,"Noite","Sexta",0,1,279,"No-Show (Faltou)",279,0.87
+MED-0845,PAC-44258,"Ginecologia",69,"Feminino",0,19,"Noite","Sábado",1,0,230,"No-Show (Faltou)",230,0.26
+MED-0846,PAC-45402,"Dermatologia",47,"Masculino",0,27,"Tarde","Sábado",0,0,271,"Compareceu",0,0.7
+MED-0847,PAC-23212,"Ginecologia",20,"Feminino",1,33,"Manhã","Terça",0,2,259,"No-Show (Faltou)",259,0.77
+MED-0848,PAC-37689,"Dermatologia",22,"Feminino",0,20,"Noite","Quinta",0,1,301,"No-Show (Faltou)",301,0.77
+MED-0849,PAC-58832,"Dermatologia",36,"Feminino",1,22,"Manhã","Sexta",0,2,275,"No-Show (Faltou)",275,0.93
+MED-0850,PAC-56642,"Ortopedia",41,"Masculino",0,23,"Tarde","Quarta",1,0,265,"No-Show (Faltou)",265,0.4
+MED-0851,PAC-91119,"Ortopedia",19,"Feminino",0,7,"Noite","Segunda",1,1,240,"Compareceu",0,0.45
+MED-0852,PAC-42263,"Ortopedia",69,"Feminino",1,5,"Tarde","Quarta",1,0,275,"Compareceu",0,0.1
+MED-0853,PAC-60073,"Clínica Geral",44,"Masculino",0,3,"Tarde","Terça",1,0,198,"Compareceu",0,0.16
+MED-0854,PAC-24550,"Neurologia",55,"Feminino",1,23,"Manhã","Segunda",0,0,395,"Compareceu",0,0.56
+MED-0855,PAC-85693,"Dermatologia",18,"Feminino",0,15,"Tarde","Sexta",0,0,283,"No-Show (Faltou)",283,0.66
+MED-0856,PAC-33503,"Cardiologia",27,"Feminino",0,7,"Noite","Sexta",1,0,338,"Compareceu",0,0.25
+MED-0857,PAC-17980,"Neurologia",74,"Masculino",0,24,"Tarde","Sábado",1,2,377,"No-Show (Faltou)",377,0.52
+MED-0858,PAC-99124,"Dermatologia",67,"Masculino",1,11,"Manhã","Sexta",0,0,287,"No-Show (Faltou)",287,0.54
+MED-0859,PAC-66934,"Clínica Geral",50,"Masculino",0,2,"Manhã","Sábado",0,0,184,"No-Show (Faltou)",184,0.4
+MED-0860,PAC-71411,"Dermatologia",70,"Masculino",1,11,"Manhã","Terça",1,2,296,"No-Show (Faltou)",296,0.48
+MED-0861,PAC-82554,"Ortopedia",34,"Masculino",0,41,"Tarde","Terça",1,1,248,"No-Show (Faltou)",248,0.52
+MED-0862,PAC-70364,"Ginecologia",54,"Masculino",1,18,"Manhã","Sexta",1,0,257,"No-Show (Faltou)",257,0.25
+MED-0863,PAC-94841,"Clínica Geral",42,"Masculino",1,27,"Tarde","Terça",0,0,181,"No-Show (Faltou)",181,0.51
+MED-0864,PAC-35985,"Ginecologia",43,"Feminino",0,6,"Tarde","Quinta",1,1,245,"No-Show (Faltou)",245,0.3
+MED-0865,PAC-43795,"Dermatologia",35,"Feminino",0,25,"Noite","Terça",0,0,307,"Compareceu",0,0.75
+MED-0866,PAC-88272,"Cardiologia",61,"Feminino",1,29,"Noite","Segunda",1,2,303,"Compareceu",0,0.55
+MED-0867,PAC-49415,"Ginecologia",33,"Masculino",0,3,"Manhã","Quinta",1,0,249,"Compareceu",0,0.18
+MED-0868,PAC-77226,"Ginecologia",60,"Masculino",0,15,"Noite","Quarta",1,0,243,"No-Show (Faltou)",243,0.31
+MED-0869,PAC-51702,"Neurologia",56,"Masculino",0,14,"Tarde","Quarta",1,2,371,"Compareceu",0,0.47
+MED-0870,PAC-32846,"Cardiologia",65,"Feminino",1,27,"Tarde","Terça",1,0,320,"Compareceu",0,0.2
+MED-0871,PAC-80656,"Cardiologia",64,"Masculino",1,41,"Noite","Terça",1,1,336,"No-Show (Faltou)",336,0.37
+MED-0872,PAC-75133,"Ortopedia",31,"Feminino",0,32,"Noite","Quinta",1,0,247,"Compareceu",0,0.45
+MED-0873,PAC-76277,"Ginecologia",77,"Masculino",1,42,"Tarde","Quarta",1,0,258,"Compareceu",0,0.24
+MED-0874,PAC-54087,"Ortopedia",44,"Feminino",0,2,"Tarde","Sexta",1,3,276,"No-Show (Faltou)",276,0.64
+MED-0875,PAC-68564,"Ortopedia",48,"Feminino",0,34,"Manhã","Terça",1,2,269,"No-Show (Faltou)",269,0.64
+MED-0876,PAC-89707,"Ginecologia",64,"Feminino",0,37,"Manhã","Quarta",1,3,222,"Compareceu",0,0.67
+MED-0877,PAC-87517,"Cardiologia",70,"Masculino",0,37,"Noite","Segunda",1,1,322,"Compareceu",0,0.5
+MED-0878,PAC-31994,"Cardiologia",43,"Feminino",0,18,"Noite","Quinta",1,3,337,"No-Show (Faltou)",337,0.63
+MED-0879,PAC-73138,"Cardiologia",31,"Feminino",0,15,"Tarde","Segunda",1,0,333,"Compareceu",0,0.28
+MED-0880,PAC-90948,"Dermatologia",74,"Masculino",1,11,"Tarde","Sábado",1,0,305,"Compareceu",0,0.24
+MED-0881,PAC-55425,"Ginecologia",21,"Feminino",0,37,"Tarde","Sexta",1,0,252,"No-Show (Faltou)",252,0.42
+MED-0882,PAC-26568,"Ortopedia",40,"Feminino",0,27,"Noite","Quarta",1,0,250,"Compareceu",0,0.45
+MED-0883,PAC-64378,"Neurologia",54,"Feminino",0,17,"Manhã","Quarta",1,0,395,"Compareceu",0,0.23
+MED-0884,PAC-48855,"Dermatologia",35,"Masculino",0,39,"Tarde","Quarta",0,3,284,"No-Show (Faltou)",284,0.95
+MED-0885,PAC-39999,"Ortopedia",30,"Masculino",0,23,"Tarde","Terça",1,0,254,"Compareceu",0,0.4
+MED-0886,PAC-97809,"Dermatologia",18,"Masculino",0,9,"Tarde","Quinta",1,0,291,"Compareceu",0,0.28
+MED-0887,PAC-12286,"Ortopedia",32,"Masculino",1,22,"Manhã","Sábado",0,3,263,"No-Show (Faltou)",263,0.93
+MED-0888,PAC-23429,"Clínica Geral",62,"Masculino",0,6,"Noite","Sábado",1,2,165,"Compareceu",0,0.4
+MED-0889,PAC-11239,"Ortopedia",20,"Masculino",0,31,"Manhã","Quarta",0,0,274,"Compareceu",0,0.64
+MED-0890,PAC-35716,"Neurologia",72,"Masculino",0,43,"Noite","Sábado",1,0,378,"Compareceu",0,0.33
+MED-0891,PAC-66860,"Ortopedia",73,"Feminino",0,15,"Noite","Terça",1,1,262,"Compareceu",0,0.42
+MED-0892,PAC-74670,"Ginecologia",63,"Feminino",0,39,"Noite","Sábado",1,1,254,"No-Show (Faltou)",254,0.48
+MED-0893,PAC-29147,"Neurologia",25,"Feminino",0,1,"Noite","Quinta",1,0,360,"Compareceu",0,0.2
+MED-0894,PAC-80290,"Ortopedia",60,"Masculino",1,12,"Tarde","Segunda",1,0,266,"No-Show (Faltou)",266,0.29
+MED-0895,PAC-18101,"Ortopedia",24,"Masculino",0,28,"Manhã","Segunda",1,0,260,"Compareceu",0,0.46
+MED-0896,PAC-82577,"Dermatologia",21,"Masculino",0,27,"Noite","Segunda",1,0,278,"No-Show (Faltou)",278,0.57
+MED-0897,PAC-63721,"Clínica Geral",28,"Feminino",0,42,"Noite","Sexta",0,0,177,"No-Show (Faltou)",177,0.69
+MED-0898,PAC-21531,"Neurologia",27,"Masculino",0,5,"Manhã","Sábado",1,3,393,"Compareceu",0,0.51
+MED-0899,PAC-16008,"Clínica Geral",58,"Feminino",1,2,"Manhã","Segunda",0,1,164,"No-Show (Faltou)",164,0.51
+MED-0900,PAC-17152,"Cardiologia",37,"Masculino",1,6,"Noite","Segunda",1,0,335,"Compareceu",0,0.18
+MED-0901,PAC-84962,"Clínica Geral",74,"Feminino",0,10,"Tarde","Quarta",1,0,193,"Compareceu",0,0.11
+MED-0902,PAC-99439,"Cardiologia",78,"Feminino",1,3,"Manhã","Sábado",1,0,326,"Compareceu",0,0.03
+MED-0903,PAC-30582,"Cardiologia",27,"Feminino",0,4,"Tarde","Segunda",1,0,339,"Compareceu",0,0.2
+MED-0904,PAC-28392,"Neurologia",32,"Masculino",0,4,"Noite","Quinta",1,1,379,"Compareceu",0,0.32
+MED-0905,PAC-62869,"Neurologia",73,"Feminino",1,31,"Manhã","Terça",1,0,394,"Compareceu",0,0.21
+MED-0906,PAC-14013,"Neurologia",58,"Feminino",1,28,"Noite","Quinta",0,0,390,"No-Show (Faltou)",390,0.55
+MED-0907,PAC-31823,"Ginecologia",35,"Masculino",0,22,"Noite","Quarta",0,0,252,"No-Show (Faltou)",252,0.65
+MED-0908,PAC-86300,"Ortopedia",45,"Feminino",1,4,"Tarde","Terça",1,1,269,"Compareceu",0,0.27
+MED-0909,PAC-57443,"Cardiologia",69,"Feminino",1,43,"Noite","Sábado",1,0,307,"No-Show (Faltou)",307,0.25
+MED-0910,PAC-95253,"Dermatologia",20,"Feminino",0,30,"Tarde","Sábado",0,0,302,"Compareceu",0,0.7
+MED-0911,PAC-79730,"Ortopedia",64,"Masculino",0,5,"Noite","Segunda",1,0,251,"No-Show (Faltou)",251,0.28
+MED-0912,PAC-70874,"Cardiologia",57,"Masculino",1,37,"Tarde","Sábado",1,1,311,"Compareceu",0,0.37
+MED-0913,PAC-38684,"Ginecologia",41,"Masculino",0,20,"Tarde","Segunda",1,0,238,"No-Show (Faltou)",238,0.32
+MED-0914,PAC-43161,"Cardiologia",59,"Masculino",0,36,"Tarde","Quarta",1,0,320,"Compareceu",0,0.32
+MED-0915,PAC-54304,"Neurologia",25,"Masculino",0,16,"Noite","Quinta",0,0,362,"No-Show (Faltou)",362,0.52
+MED-0916,PAC-42114,"Clínica Geral",44,"Masculino",0,2,"Tarde","Sábado",1,0,191,"Compareceu",0,0.16
+MED-0917,PAC-66591,"Ginecologia",33,"Masculino",0,6,"Noite","Quinta",1,1,235,"No-Show (Faltou)",235,0.35
+MED-0918,PAC-97735,"Cardiologia",34,"Feminino",0,28,"Noite","Sexta",1,2,319,"No-Show (Faltou)",319,0.67
+MED-0919,PAC-15545,"Cardiologia",27,"Feminino",0,5,"Manhã","Quarta",1,1,331,"Compareceu",0,0.26
+MED-0920,PAC-60022,"Dermatologia",50,"Feminino",0,7,"Manhã","Terça",0,0,307,"Compareceu",0,0.52
+MED-0921,PAC-21165,"Clínica Geral",24,"Masculino",0,24,"Tarde","Sexta",1,0,184,"Compareceu",0,0.4
+MED-0922,PAC-48976,"Cardiologia",50,"Masculino",0,1,"Manhã","Quinta",0,0,317,"No-Show (Faltou)",317,0.38
+MED-0923,PAC-23452,"Ortopedia",46,"Masculino",0,42,"Noite","Quinta",0,0,246,"Compareceu",0,0.69
+MED-0924,PAC-94596,"Dermatologia",55,"Feminino",0,6,"Noite","Quarta",1,1,284,"Compareceu",0,0.45
+MED-0925,PAC-52406,"Dermatologia",53,"Masculino",1,15,"Manhã","Quinta",1,0,300,"No-Show (Faltou)",300,0.29
+MED-0926,PAC-46883,"Neurologia",23,"Feminino",0,9,"Tarde","Sexta",1,1,361,"Compareceu",0,0.33
+MED-0927,PAC-48027,"Clínica Geral",66,"Masculino",0,16,"Noite","Quinta",0,0,192,"No-Show (Faltou)",192,0.48
+MED-0928,PAC-25837,"Neurologia",35,"Feminino",0,21,"Noite","Segunda",0,0,390,"Compareceu",0,0.58
+MED-0929,PAC-40314,"Neurologia",38,"Feminino",0,10,"Tarde","Quarta",0,0,383,"No-Show (Faltou)",383,0.39
+MED-0930,PAC-61457,"Clínica Geral",54,"Feminino",0,12,"Tarde","Quinta",0,0,196,"Compareceu",0,0.48
+MED-0931,PAC-59267,"Dermatologia",60,"Masculino",1,13,"Manhã","Terça",1,3,287,"Compareceu",0,0.65
+MED-0932,PAC-93744,"Dermatologia",34,"Feminino",1,2,"Manhã","Sábado",1,0,301,"Compareceu",0,0.21
+MED-0933,PAC-44888,"Dermatologia",23,"Feminino",1,1,"Manhã","Terça",1,0,297,"Compareceu",0,0.21
+MED-0934,PAC-62698,"Cardiologia",63,"Masculino",1,37,"Noite","Segunda",1,0,330,"Compareceu",0,0.31
+MED-0935,PAC-27175,"Cardiologia",75,"Feminino",0,13,"Noite","Sábado",0,1,326,"No-Show (Faltou)",326,0.58
+MED-0936,PAC-88318,"Clínica Geral",31,"Feminino",1,6,"Manhã","Quinta",0,0,164,"Compareceu",0,0.33
+MED-0937,PAC-36128,"Ortopedia",44,"Feminino",0,1,"Tarde","Quinta",1,0,269,"Compareceu",0,0.22
+MED-0938,PAC-20605,"Cardiologia",27,"Masculino",0,14,"Noite","Quinta",1,0,308,"Compareceu",0,0.27
+MED-0939,PAC-11749,"Neurologia",22,"Masculino",0,4,"Noite","Quarta",0,1,368,"Compareceu",0,0.56
+MED-0940,PAC-69559,"Ortopedia",70,"Masculino",1,34,"Noite","Sexta",0,0,256,"Compareceu",0,0.63
+MED-0941,PAC-74036,"Clínica Geral",24,"Masculino",0,3,"Tarde","Segunda",1,0,177,"Compareceu",0,0.22
+MED-0942,PAC-85179,"Ginecologia",51,"Masculino",1,29,"Manhã","Segunda",1,0,259,"Compareceu",0,0.35
+MED-0943,PAC-72989,"Neurologia",73,"Masculino",1,9,"Noite","Quinta",1,1,389,"Compareceu",0,0.2
+MED-0944,PAC-97466,"Ortopedia",61,"Masculino",1,16,"Manhã","Segunda",1,1,252,"Compareceu",0,0.36
+MED-0945,PAC-38610,"Neurologia",62,"Feminino",1,1,"Manhã","Quarta",0,0,376,"Compareceu",0,0.27
+MED-0946,PAC-46420,"Clínica Geral",53,"Feminino",1,14,"Manhã","Segunda",0,2,188,"No-Show (Faltou)",188,0.71
+MED-0947,PAC-90897,"Ginecologia",18,"Feminino",1,18,"Manhã","Sábado",1,0,254,"Compareceu",0,0.19
+MED-0948,PAC-52040,"Neurologia",50,"Masculino",0,38,"Noite","Quarta",1,0,381,"No-Show (Faltou)",381,0.38
+MED-0949,PAC-79851,"Neurologia",18,"Masculino",0,7,"Tarde","Terça",1,0,375,"Compareceu",0,0.15
+MED-0950,PAC-54327,"Cardiologia",76,"Masculino",1,6,"Manhã","Terça",1,0,303,"Compareceu",0,0.03
+MED-0951,PAC-35471,"Ginecologia",21,"Feminino",0,16,"Manhã","Sábado",1,1,231,"No-Show (Faltou)",231,0.38
+MED-0952,PAC-83281,"Ortopedia",20,"Masculino",1,28,"Tarde","Segunda",1,0,268,"Compareceu",0,0.39
+MED-0953,PAC-77758,"Dermatologia",48,"Feminino",0,21,"Tarde","Terça",1,2,308,"No-Show (Faltou)",308,0.6
+MED-0954,PAC-78902,"Neurologia",29,"Masculino",0,29,"Manhã","Terça",1,1,389,"Compareceu",0,0.45
+MED-0955,PAC-56712,"Ginecologia",63,"Feminino",1,36,"Noite","Quinta",1,0,247,"No-Show (Faltou)",247,0.29
+MED-0956,PAC-71189,"Dermatologia",67,"Feminino",0,22,"Tarde","Segunda",1,0,290,"Compareceu",0,0.47
+MED-0957,PAC-92332,"Dermatologia",20,"Feminino",0,24,"Noite","Terça",1,0,303,"No-Show (Faltou)",303,0.51
+MED-0958,PAC-90142,"Ginecologia",24,"Masculino",0,25,"Manhã","Sexta",1,0,234,"Compareceu",0,0.42
+MED-0959,PAC-34619,"Ginecologia",62,"Feminino",0,9,"Tarde","Quarta",1,0,248,"Compareceu",0,0.13
+MED-0960,PAC-75763,"Ortopedia",48,"Feminino",0,7,"Manhã","Sexta",1,0,264,"Compareceu",0,0.28
+MED-0961,PAC-93573,"Clínica Geral",27,"Masculino",1,4,"Manhã","Quinta",1,0,187,"Compareceu",0,0.09
+MED-0962,PAC-58050,"Neurologia",36,"Feminino",0,25,"Noite","Quarta",1,2,383,"Compareceu",0,0.62
+MED-0963,PAC-29193,"Dermatologia",59,"Feminino",1,16,"Manhã","Segunda",1,0,271,"No-Show (Faltou)",271,0.35
+MED-0964,PAC-67003,"Cardiologia",73,"Feminino",1,8,"Noite","Segunda",1,0,326,"Compareceu",0,0.13
+MED-0965,PAC-51480,"Clínica Geral",53,"Masculino",1,26,"Manhã","Terça",0,0,165,"No-Show (Faltou)",165,0.51
+MED-0966,PAC-42624,"Dermatologia",47,"Masculino",0,13,"Noite","Segunda",1,3,275,"No-Show (Faltou)",275,0.83
+MED-0967,PAC-10434,"Clínica Geral",32,"Masculino",0,2,"Noite","Terça",1,0,173,"Compareceu",0,0.21
+MED-0968,PAC-14911,"Dermatologia",49,"Feminino",0,12,"Noite","Quinta",0,0,284,"No-Show (Faltou)",284,0.65
+MED-0969,PAC-26054,"Ortopedia",18,"Masculino",0,1,"Manhã","Sexta",1,0,276,"Compareceu",0,0.28
+MED-0970,PAC-13864,"Ginecologia",35,"Masculino",0,20,"Noite","Segunda",0,1,246,"No-Show (Faltou)",246,0.73
+MED-0971,PAC-38341,"Cardiologia",25,"Masculino",0,30,"Manhã","Sexta",1,2,309,"No-Show (Faltou)",309,0.62
+MED-0972,PAC-69485,"Dermatologia",26,"Feminino",0,7,"Manhã","Sábado",1,0,284,"No-Show (Faltou)",284,0.28
+MED-0973,PAC-77295,"Dermatologia",20,"Feminino",0,27,"Tarde","Quinta",1,3,295,"Compareceu",0,0.82
+MED-0974,PAC-31772,"Cardiologia",41,"Feminino",0,31,"Tarde","Quarta",1,0,331,"Compareceu",0,0.32
+MED-0975,PAC-82915,"Ginecologia",18,"Feminino",1,4,"Noite","Sábado",1,0,238,"Compareceu",0,0.16
+MED-0976,PAC-20726,"Dermatologia",41,"Masculino",0,17,"Noite","Sábado",1,1,282,"No-Show (Faltou)",282,0.53
+MED-0977,PAC-85202,"Clínica Geral",37,"Masculino",1,16,"Manhã","Sexta",1,0,160,"Compareceu",0,0.23
+MED-0978,PAC-66346,"Cardiologia",45,"Feminino",0,29,"Manhã","Quinta",1,2,308,"Compareceu",0,0.56
+MED-0979,PAC-24156,"Cardiologia",44,"Masculino",0,43,"Tarde","Sexta",1,0,325,"No-Show (Faltou)",325,0.38
+MED-0980,PAC-18633,"Ortopedia",78,"Feminino",1,35,"Noite","Sábado",0,3,275,"No-Show (Faltou)",275,0.93
+MED-0981,PAC-19777,"Ginecologia",56,"Masculino",1,1,"Manhã","Sábado",1,1,246,"Compareceu",0,0.23
+MED-0982,PAC-87587,"Ortopedia",26,"Feminino",0,3,"Manhã","Terça",1,0,264,"Compareceu",0,0.22
+MED-0983,PAC-12064,"Ginecologia",29,"Feminino",0,36,"Noite","Quinta",1,0,237,"No-Show (Faltou)",237,0.41
+MED-0984,PAC-33207,"Ginecologia",44,"Feminino",0,39,"Manhã","Sexta",1,0,250,"Compareceu",0,0.42
+MED-0985,PAC-31017,"Cardiologia",50,"Masculino",0,40,"Tarde","Quarta",0,0,311,"Compareceu",0,0.56
+MED-0986,PAC-65494,"Cardiologia",26,"Feminino",0,20,"Tarde","Segunda",1,0,325,"Compareceu",0,0.28
+MED-0987,PAC-16638,"Cardiologia",78,"Feminino",0,17,"Tarde","Quarta",0,0,321,"Compareceu",0,0.41
+MED-0988,PAC-34448,"Dermatologia",53,"Masculino",0,12,"Manhã","Terça",0,0,294,"Compareceu",0,0.6
+MED-0989,PAC-88925,"Dermatologia",64,"Feminino",0,40,"Manhã","Segunda",1,0,291,"No-Show (Faltou)",291,0.47
+MED-0990,PAC-60068,"Ginecologia",23,"Feminino",0,29,"Tarde","Sexta",1,0,258,"Compareceu",0,0.42
+MED-0991,PAC-97878,"Clínica Geral",35,"Feminino",1,19,"Noite","Sexta",0,1,183,"No-Show (Faltou)",183,0.64
+MED-0992,PAC-82355,"Dermatologia",20,"Masculino",0,41,"Manhã","Sexta",1,0,272,"Compareceu",0,0.52
+MED-0993,PAC-73499,"Ginecologia",77,"Masculino",1,25,"Manhã","Quinta",1,0,222,"Compareceu",0,0.24
+MED-0994,PAC-41309,"Neurologia",59,"Masculino",1,10,"Manhã","Sábado",1,0,370,"Compareceu",0,0.08
+MED-0995,PAC-45786,"Ginecologia",79,"Feminino",1,24,"Manhã","Terça",1,0,231,"Compareceu",0,0.24
+MED-0996,PAC-56929,"Clínica Geral",42,"Masculino",1,7,"Tarde","Terça",0,0,193,"No-Show (Faltou)",193,0.33
+MED-0997,PAC-44739,"Ortopedia",63,"Masculino",0,33,"Manhã","Sexta",1,3,263,"No-Show (Faltou)",263,0.77
+MED-0998,PAC-69216,"Neurologia",51,"Masculino",1,1,"Tarde","Terça",1,0,366,"Compareceu",0,0.08
+MED-0999,PAC-10360,"Ortopedia",52,"Feminino",1,17,"Tarde","Quinta",1,0,251,"Compareceu",0,0.23
+MED-1000,PAC-18170,"Ginecologia",43,"Feminino",1,42,"Tarde","Terça",1,0,242,"Compareceu",0,0.29
+MED-1001,PAC-62647,"Clínica Geral",70,"Feminino",0,2,"Tarde","Segunda",0,0,188,"No-Show (Faltou)",188,0.41
+MED-1002,PAC-23790,"Ortopedia",41,"Feminino",0,13,"Manhã","Quinta",1,1,255,"No-Show (Faltou)",255,0.42
+MED-1003,PAC-51601,"Ortopedia",70,"Masculino",1,30,"Noite","Quarta",0,1,249,"No-Show (Faltou)",249,0.69
+MED-1004,PAC-26077,"Dermatologia",65,"Masculino",1,29,"Tarde","Quarta",0,0,307,"No-Show (Faltou)",307,0.58
+MED-1005,PAC-97221,"Clínica Geral",75,"Feminino",1,1,"Tarde","Segunda",1,3,165,"No-Show (Faltou)",165,0.46
+MED-1006,PAC-55031,"Neurologia",73,"Masculino",0,7,"Noite","Terça",1,0,382,"Compareceu",0,0.15
+MED-1007,PAC-49508,"Cardiologia",39,"Feminino",0,3,"Noite","Quarta",1,0,332,"Compareceu",0,0.19
+MED-1008,PAC-50652,"Ortopedia",21,"Masculino",0,7,"Tarde","Quarta",0,2,263,"Compareceu",0,0.7
+MED-1009,PAC-28462,"Cardiologia",53,"Feminino",1,12,"Manhã","Sexta",0,0,321,"No-Show (Faltou)",321,0.45
+MED-1010,PAC-42939,"Cardiologia",56,"Feminino",1,3,"Manhã","Terça",0,0,314,"Compareceu",0,0.31
+MED-1011,PAC-64082,"Ortopedia",73,"Feminino",1,5,"Manhã","Quarta",0,0,267,"No-Show (Faltou)",267,0.34
+MED-1012,PAC-61892,"Clínica Geral",18,"Masculino",1,5,"Tarde","Sábado",1,0,168,"Compareceu",0,0.09
+MED-1013,PAC-96369,"Clínica Geral",52,"Feminino",1,34,"Noite","Quinta",1,0,182,"Compareceu",0,0.32
+MED-1014,PAC-47513,"Neurologia",39,"Feminino",0,30,"Tarde","Segunda",1,0,378,"No-Show (Faltou)",378,0.39
+MED-1015,PAC-65323,"Ginecologia",19,"Masculino",0,24,"Tarde","Sexta",1,0,241,"No-Show (Faltou)",241,0.42
+MED-1016,PAC-29800,"Ortopedia",27,"Feminino",0,5,"Manhã","Sexta",0,0,258,"Compareceu",0,0.52
+MED-1017,PAC-90943,"Cardiologia",49,"Feminino",0,1,"Tarde","Terça",0,0,335,"No-Show (Faltou)",335,0.38
+MED-1018,PAC-38753,"Dermatologia",63,"Feminino",1,32,"Manhã","Terça",1,1,290,"No-Show (Faltou)",290,0.46
+MED-1019,PAC-23230,"Ginecologia",44,"Masculino",1,6,"Tarde","Quarta",1,0,220,"Compareceu",0,0.11
+MED-1020,PAC-14374,"Cardiologia",38,"Masculino",0,40,"Manhã","Terça",0,0,339,"No-Show (Faltou)",339,0.56
+MED-1021,PAC-72184,"Ginecologia",24,"Masculino",0,22,"Manhã","Quarta",0,0,227,"No-Show (Faltou)",227,0.6
+MED-1022,PAC-76661,"Cardiologia",40,"Feminino",0,39,"Manhã","Sexta",1,0,308,"Compareceu",0,0.38
+MED-1023,PAC-87804,"Neurologia",71,"Masculino",0,17,"Tarde","Sábado",1,0,390,"Compareceu",0,0.18
+MED-1024,PAC-75614,"Clínica Geral",26,"Masculino",0,2,"Manhã","Quarta",1,0,180,"Compareceu",0,0.16
+MED-1025,PAC-10091,"Dermatologia",18,"Masculino",1,8,"Tarde","Sábado",1,0,273,"Compareceu",0,0.21
+MED-1026,PAC-41235,"Cardiologia",19,"Masculino",1,30,"Tarde","Segunda",0,0,308,"No-Show (Faltou)",308,0.55
+MED-1027,PAC-49045,"Ortopedia",73,"Feminino",0,6,"Noite","Sábado",1,0,259,"Compareceu",0,0.22
+MED-1028,PAC-93522,"Dermatologia",32,"Feminino",0,9,"Noite","Quinta",1,0,295,"Compareceu",0,0.33
+MED-1029,PAC-54665,"Cardiologia",70,"Feminino",0,26,"Manhã","Segunda",0,1,312,"No-Show (Faltou)",312,0.69
+MED-1030,PAC-82476,"Cardiologia",32,"Masculino",0,1,"Manhã","Segunda",1,3,306,"No-Show (Faltou)",306,0.56
+MED-1031,PAC-56952,"Ginecologia",28,"Masculino",0,1,"Tarde","Segunda",1,0,254,"Compareceu",0,0.24
+MED-1032,PAC-38096,"Dermatologia",36,"Feminino",1,7,"Tarde","Sexta",1,0,273,"Compareceu",0,0.27
+MED-1033,PAC-85906,"Dermatologia",34,"Masculino",0,17,"Noite","Sábado",1,0,289,"No-Show (Faltou)",289,0.41
+MED-1034,PAC-80383,"Neurologia",67,"Masculino",0,11,"Manhã","Segunda",1,0,389,"Compareceu",0,0.24
+MED-1035,PAC-81527,"Clínica Geral",46,"Masculino",0,18,"Noite","Segunda",1,3,180,"No-Show (Faltou)",180,0.71
+MED-1036,PAC-59337,"Neurologia",19,"Feminino",0,23,"Tarde","Quarta",1,0,378,"Compareceu",0,0.33
+MED-1037,PAC-73814,"Clínica Geral",22,"Feminino",0,12,"Manhã","Sexta",1,0,171,"No-Show (Faltou)",171,0.3
+MED-1038,PAC-94957,"Clínica Geral",35,"Feminino",1,14,"Tarde","Sábado",1,0,184,"Compareceu",0,0.17
+MED-1039,PAC-92767,"Dermatologia",40,"Masculino",0,14,"Noite","Quinta",1,0,275,"Compareceu",0,0.41
+MED-1040,PAC-37244,"Dermatologia",19,"Feminino",0,2,"Noite","Terça",0,0,289,"No-Show (Faltou)",289,0.57
+MED-1041,PAC-78388,"Dermatologia",67,"Feminino",1,1,"Noite","Quinta",1,1,285,"Compareceu",0,0.33
+MED-1042,PAC-96198,"Cardiologia",43,"Masculino",0,39,"Tarde","Quarta",1,1,318,"Compareceu",0,0.44
+MED-1043,PAC-60675,"Cardiologia",54,"Feminino",1,14,"Tarde","Terça",1,0,315,"Compareceu",0,0.15
+MED-1044,PAC-31818,"Clínica Geral",79,"Feminino",1,8,"Noite","Sábado",1,0,192,"Compareceu",0,0.09
+MED-1045,PAC-69628,"Ginecologia",26,"Feminino",0,2,"Manhã","Sábado",1,2,237,"Compareceu",0,0.42
+MED-1046,PAC-54105,"Cardiologia",73,"Masculino",0,16,"Tarde","Segunda",0,0,337,"Compareceu",0,0.47
+MED-1047,PAC-45249,"Clínica Geral",66,"Masculino",1,5,"Tarde","Sábado",1,0,196,"Compareceu",0,0.04
+MED-1048,PAC-13059,"Ortopedia",49,"Masculino",0,36,"Tarde","Segunda",1,0,244,"Compareceu",0,0.46
+MED-1049,PAC-17536,"Clínica Geral",69,"Feminino",1,5,"Tarde","Quarta",0,0,165,"Compareceu",0,0.28
+MED-1050,PAC-28679,"Ginecologia",33,"Masculino",0,31,"Noite","Quarta",1,0,247,"No-Show (Faltou)",247,0.41
+MED-1051,PAC-16489,"Neurologia",53,"Masculino",1,10,"Tarde","Sábado",0,0,377,"Compareceu",0,0.32
+MED-1052,PAC-40966,"Ortopedia",41,"Masculino",0,18,"Noite","Quarta",1,0,240,"Compareceu",0,0.35
+MED-1053,PAC-72110,"Neurologia",42,"Masculino",0,1,"Noite","Sexta",1,0,365,"Compareceu",0,0.26
+MED-1054,PAC-79920,"Clínica Geral",34,"Feminino",0,16,"Noite","Quarta",1,0,176,"Compareceu",0,0.29
+MED-1055,PAC-34397,"Ginecologia",59,"Feminino",1,20,"Noite","Terça",1,0,242,"Compareceu",0,0.24
+MED-1056,PAC-85540,"Neurologia",32,"Feminino",0,41,"Tarde","Sexta",1,2,369,"No-Show (Faltou)",369,0.63
+MED-1057,PAC-23351,"Neurologia",59,"Masculino",0,8,"Manhã","Quinta",1,0,363,"Compareceu",0,0.15
+MED-1058,PAC-87827,"Cardiologia",55,"Masculino",0,7,"Noite","Quinta",1,0,331,"Compareceu",0,0.19
+MED-1059,PAC-68971,"Ginecologia",64,"Feminino",1,18,"Noite","Terça",1,0,220,"Compareceu",0,0.19
+MED-1060,PAC-26781,"Ginecologia",62,"Masculino",1,30,"Manhã","Quarta",1,0,236,"Compareceu",0,0.24
+MED-1061,PAC-21258,"Dermatologia",30,"Masculino",0,22,"Manhã","Sexta",0,0,296,"No-Show (Faltou)",296,0.76
+MED-1062,PAC-22402,"Neurologia",75,"Masculino",1,31,"Noite","Quinta",1,0,377,"Compareceu",0,0.26
+MED-1063,PAC-90212,"Dermatologia",43,"Feminino",0,38,"Noite","Sábado",1,0,285,"No-Show (Faltou)",285,0.51
+MED-1064,PAC-14689,"Dermatologia",47,"Feminino",1,24,"Tarde","Quarta",1,0,278,"Compareceu",0,0.39
+MED-1065,PAC-35832,"Neurologia",63,"Feminino",0,26,"Tarde","Quinta",1,0,381,"Compareceu",0,0.28
+MED-1066,PAC-33642,"Ginecologia",69,"Masculino",0,27,"Noite","Segunda",0,0,222,"No-Show (Faltou)",222,0.66
+MED-1067,PAC-68119,"Ginecologia",42,"Feminino",0,10,"Manhã","Sexta",1,0,236,"Compareceu",0,0.24
+MED-1068,PAC-19263,"Ginecologia",30,"Feminino",0,8,"Noite","Terça",0,1,232,"No-Show (Faltou)",232,0.59
+MED-1069,PAC-37073,"Clínica Geral",73,"Masculino",1,5,"Noite","Sábado",0,2,175,"No-Show (Faltou)",175,0.57
+MED-1070,PAC-91550,"Neurologia",20,"Feminino",1,27,"Tarde","Sábado",1,0,372,"Compareceu",0,0.26
+MED-1071,PAC-62693,"Dermatologia",39,"Feminino",0,18,"Noite","Quarta",1,1,299,"No-Show (Faltou)",299,0.53
+MED-1072,PAC-10503,"Cardiologia",52,"Feminino",0,9,"Tarde","Quinta",0,0,314,"No-Show (Faltou)",314,0.38
+MED-1073,PAC-84980,"Clínica Geral",35,"Masculino",0,29,"Noite","Quinta",1,0,194,"No-Show (Faltou)",194,0.39
+MED-1074,PAC-76124,"Dermatologia",29,"Masculino",1,14,"Tarde","Quarta",1,0,304,"Compareceu",0,0.29
+MED-1075,PAC-43934,"Clínica Geral",18,"Masculino",0,3,"Tarde","Sexta",1,1,161,"No-Show (Faltou)",161,0.34
+MED-1076,PAC-48411,"Dermatologia",31,"Feminino",0,14,"Tarde","Segunda",1,0,272,"Compareceu",0,0.42
+MED-1077,PAC-59554,"Ortopedia",60,"Masculino",1,2,"Noite","Segunda",0,0,264,"Compareceu",0,0.5
+MED-1078,PAC-47364,"Dermatologia",19,"Masculino",0,21,"Tarde","Quinta",1,0,284,"No-Show (Faltou)",284,0.36
+MED-1079,PAC-71841,"Cardiologia",71,"Masculino",0,32,"Manhã","Segunda",1,0,337,"No-Show (Faltou)",337,0.33
+MED-1080,PAC-12985,"Dermatologia",72,"Masculino",0,8,"Noite","Quarta",1,0,272,"No-Show (Faltou)",272,0.28
+MED-1081,PAC-20795,"Neurologia",62,"Feminino",1,29,"Manhã","Segunda",1,0,373,"Compareceu",0,0.27
+MED-1082,PAC-65272,"Cardiologia",24,"Feminino",0,33,"Manhã","Sexta",0,0,319,"Compareceu",0,0.62
+MED-1083,PAC-26415,"Dermatologia",59,"Feminino",1,5,"Tarde","Terça",1,0,276,"Compareceu",0,0.21
+MED-1084,PAC-54226,"Dermatologia",24,"Masculino",0,19,"Tarde","Terça",0,0,270,"No-Show (Faltou)",270,0.6
+MED-1085,PAC-28702,"Clínica Geral",21,"Masculino",0,18,"Noite","Terça",0,0,188,"Compareceu",0,0.53
+MED-1086,PAC-99846,"Ortopedia",27,"Feminino",0,31,"Manhã","Sábado",1,0,277,"Compareceu",0,0.4
+MED-1087,PAC-57656,"Cardiologia",26,"Masculino",0,1,"Manhã","Segunda",1,0,313,"No-Show (Faltou)",313,0.2
+MED-1088,PAC-52133,"Ortopedia",57,"Masculino",1,37,"Tarde","Terça",1,0,263,"Compareceu",0,0.33
+MED-1089,PAC-53277,"Ginecologia",36,"Masculino",0,2,"Manhã","Terça",1,0,234,"Compareceu",0,0.18
+MED-1090,PAC-31087,"Ortopedia",73,"Feminino",1,4,"Noite","Quinta",0,1,253,"Compareceu",0,0.51
+MED-1091,PAC-45564,"Ginecologia",76,"Feminino",0,39,"Tarde","Sábado",1,0,225,"No-Show (Faltou)",225,0.31
+MED-1092,PAC-66707,"Ginecologia",26,"Feminino",0,41,"Noite","Terça",0,1,238,"Compareceu",0,0.77
+MED-1093,PAC-64517,"Cardiologia",31,"Masculino",0,42,"Manhã","Sexta",1,0,339,"Compareceu",0,0.38
+MED-1094,PAC-98994,"Cardiologia",72,"Feminino",1,22,"Manhã","Quarta",1,1,314,"Compareceu",0,0.32
+MED-1095,PAC-50138,"Cardiologia",57,"Feminino",1,19,"Manhã","Sexta",1,3,309,"Compareceu",0,0.57
+MED-1096,PAC-67948,"Neurologia",34,"Masculino",0,14,"Manhã","Quinta",1,3,372,"Compareceu",0,0.59
+MED-1097,PAC-32425,"Dermatologia",44,"Feminino",1,42,"Noite","Quarta",0,0,279,"No-Show (Faltou)",279,0.68
+MED-1098,PAC-93568,"Ginecologia",68,"Feminino",1,32,"Manhã","Segunda",0,1,246,"No-Show (Faltou)",246,0.66
+MED-1099,PAC-41378,"Clínica Geral",19,"Feminino",0,20,"Tarde","Segunda",1,0,172,"Compareceu",0,0.3
+MED-1100,PAC-25855,"Dermatologia",63,"Masculino",1,1,"Noite","Terça",1,1,301,"Compareceu",0,0.33
+MED-1101,PAC-16999,"Ginecologia",56,"Masculino",1,27,"Noite","Segunda",0,0,251,"Compareceu",0,0.64
+MED-1102,PAC-74809,"Neurologia",40,"Masculino",0,12,"Noite","Terça",1,2,398,"Compareceu",0,0.52
+MED-1103,PAC-79286,"Ginecologia",58,"Feminino",0,26,"Noite","Quinta",1,1,259,"Compareceu",0,0.53
+MED-1104,PAC-90429,"Cardiologia",25,"Masculino",0,8,"Manhã","Quinta",1,0,321,"No-Show (Faltou)",321,0.14
+MED-1105,PAC-78239,"Ortopedia",43,"Masculino",1,36,"Noite","Segunda",1,0,251,"Compareceu",0,0.44
+MED-1106,PAC-12716,"Neurologia",32,"Masculino",0,2,"Manhã","Quinta",1,0,394,"Compareceu",0,0.15
+MED-1107,PAC-43860,"Ortopedia",33,"Masculino",0,19,"Manhã","Sábado",0,0,279,"Compareceu",0,0.54
+MED-1108,PAC-51670,"Ginecologia",26,"Feminino",0,1,"Manhã","Quinta",1,0,231,"Compareceu",0,0.18
+MED-1109,PAC-96147,"Clínica Geral",49,"Feminino",1,2,"Manhã","Quarta",1,1,176,"Compareceu",0,0.21
+MED-1110,PAC-57290,"Ortopedia",24,"Feminino",0,15,"Noite","Sábado",0,0,243,"No-Show (Faltou)",243,0.59
+MED-1111,PAC-85101,"Ortopedia",49,"Masculino",0,32,"Tarde","Sexta",1,0,277,"Compareceu",0,0.46
+MED-1112,PAC-59577,"Dermatologia",45,"Masculino",0,31,"Manhã","Sexta",1,1,295,"No-Show (Faltou)",295,0.64
+MED-1113,PAC-40721,"Clínica Geral",54,"Feminino",0,2,"Manhã","Quinta",1,0,194,"Compareceu",0,0.16
+MED-1114,PAC-88531,"Clínica Geral",52,"Masculino",1,8,"Tarde","Quinta",0,1,170,"Compareceu",0,0.45
+MED-1115,PAC-83008,"Cardiologia",22,"Masculino",0,4,"Tarde","Sábado",1,0,320,"Compareceu",0,0.14
+MED-1116,PAC-84152,"Ortopedia",65,"Masculino",0,8,"Manhã","Sexta",1,0,251,"Compareceu",0,0.23
+MED-1117,PAC-61962,"Cardiologia",34,"Feminino",0,13,"Manhã","Segunda",1,1,310,"No-Show (Faltou)",310,0.4
+MED-1118,PAC-76439,"Cardiologia",37,"Feminino",0,4,"Noite","Quinta",1,1,302,"Compareceu",0,0.31
+MED-1119,PAC-97582,"Ortopedia",53,"Feminino",1,6,"Noite","Sexta",1,1,255,"No-Show (Faltou)",255,0.38
+MED-1120,PAC-95392,"Clínica Geral",59,"Masculino",1,6,"Manhã","Quarta",1,0,196,"Compareceu",0,0.09
+MED-1121,PAC-39869,"Clínica Geral",33,"Feminino",1,36,"Tarde","Sábado",0,1,171,"Compareceu",0,0.63
+MED-1122,PAC-81013,"Clínica Geral",22,"Feminino",1,32,"Manhã","Quarta",1,0,166,"Compareceu",0,0.27
+MED-1123,PAC-98823,"Ginecologia",62,"Masculino",1,27,"Manhã","Terça",1,0,229,"Compareceu",0,0.24
+MED-1124,PAC-63300,"Ortopedia",74,"Feminino",0,6,"Noite","Segunda",1,0,246,"Compareceu",0,0.28
+MED-1125,PAC-34443,"Cardiologia",31,"Feminino",1,2,"Manhã","Sexta",1,3,323,"No-Show (Faltou)",323,0.49
+MED-1126,PAC-72253,"Dermatologia",43,"Masculino",0,34,"Noite","Sexta",1,0,279,"No-Show (Faltou)",279,0.57
+MED-1127,PAC-56730,"Ginecologia",26,"Masculino",0,7,"Manhã","Sexta",0,1,248,"No-Show (Faltou)",248,0.6
+MED-1128,PAC-47874,"Cardiologia",21,"Masculino",0,42,"Noite","Quinta",1,0,328,"Compareceu",0,0.37
+MED-1129,PAC-15684,"Ginecologia",69,"Masculino",1,24,"Manhã","Sábado",1,3,255,"No-Show (Faltou)",255,0.6
+MED-1130,PAC-20161,"Cardiologia",23,"Feminino",0,41,"Noite","Terça",0,1,336,"No-Show (Faltou)",336,0.73
+MED-1131,PAC-31304,"Neurologia",50,"Masculino",0,19,"Manhã","Terça",1,1,378,"Compareceu",0,0.35
+MED-1132,PAC-19114,"Cardiologia",72,"Masculino",1,3,"Noite","Sexta",0,0,308,"No-Show (Faltou)",308,0.37
+MED-1133,PAC-43591,"Dermatologia",60,"Masculino",1,9,"Tarde","Terça",0,0,302,"No-Show (Faltou)",302,0.45
+MED-1134,PAC-74735,"Cardiologia",61,"Masculino",1,32,"Manhã","Quinta",1,0,336,"Compareceu",0,0.2
+MED-1135,PAC-82545,"Ortopedia",52,"Masculino",1,7,"Tarde","Terça",1,0,248,"Compareceu",0,0.15
+MED-1136,PAC-37022,"Dermatologia",18,"Feminino",1,10,"Tarde","Sábado",1,1,283,"Compareceu",0,0.33
+MED-1137,PAC-88165,"Cardiologia",49,"Feminino",1,28,"Manhã","Quarta",1,0,300,"Compareceu",0,0.25
+MED-1138,PAC-25976,"Cardiologia",79,"Masculino",1,2,"Noite","Quarta",1,0,334,"Compareceu",0,0.07
+MED-1139,PAC-90452,"Ginecologia",75,"Masculino",1,2,"Manhã","Quarta",1,1,242,"Compareceu",0,0.18
+MED-1140,PAC-71596,"Neurologia",20,"Feminino",0,9,"Tarde","Segunda",1,0,391,"Compareceu",0,0.21
+MED-1141,PAC-29406,"Dermatologia",19,"Masculino",0,18,"Tarde","Terça",1,1,277,"No-Show (Faltou)",277,0.48
+MED-1142,PAC-23883,"Neurologia",47,"Masculino",1,12,"Noite","Quarta",0,0,377,"Compareceu",0,0.45
+MED-1143,PAC-25027,"Cardiologia",28,"Masculino",0,19,"Tarde","Quarta",1,0,308,"Compareceu",0,0.22
+MED-1144,PAC-92837,"Neurologia",62,"Masculino",1,25,"Manhã","Sexta",1,2,367,"Compareceu",0,0.51
+MED-1145,PAC-17314,"Clínica Geral",66,"Feminino",1,14,"Noite","Terça",1,2,199,"No-Show (Faltou)",199,0.41
+MED-1146,PAC-38457,"Clínica Geral",19,"Feminino",0,16,"Manhã","Quarta",1,2,172,"Compareceu",0,0.48
+MED-1147,PAC-36267,"Neurologia",23,"Masculino",0,16,"Tarde","Sábado",0,1,393,"No-Show (Faltou)",393,0.59
+MED-1148,PAC-70744,"Dermatologia",61,"Feminino",0,3,"Noite","Quinta",1,2,278,"No-Show (Faltou)",278,0.52
+MED-1149,PAC-21888,"Dermatologia",47,"Feminino",0,2,"Tarde","Sábado",0,0,273,"Compareceu",0,0.52
+MED-1150,PAC-39698,"Ortopedia",26,"Masculino",0,42,"Tarde","Sexta",0,0,246,"Compareceu",0,0.7
+MED-1151,PAC-94175,"Cardiologia",35,"Feminino",0,16,"Manhã","Quinta",1,0,303,"Compareceu",0,0.22
+MED-1152,PAC-65318,"Clínica Geral",58,"Feminino",0,9,"Tarde","Terça",1,0,181,"Compareceu",0,0.16
+MED-1153,PAC-13128,"Ginecologia",72,"Masculino",1,3,"Noite","Terça",0,0,226,"Compareceu",0,0.35
+MED-1154,PAC-87605,"Cardiologia",52,"Masculino",1,17,"Manhã","Quarta",1,2,325,"Compareceu",0,0.39
+MED-1155,PAC-78749,"Clínica Geral",46,"Masculino",0,6,"Manhã","Terça",1,0,185,"No-Show (Faltou)",185,0.16
+MED-1156,PAC-46559,"Ortopedia",31,"Masculino",0,38,"Manhã","Quarta",1,0,272,"Compareceu",0,0.4
+MED-1157,PAC-51036,"Clínica Geral",48,"Feminino",0,6,"Manhã","Sexta",1,2,193,"Compareceu",0,0.46
+MED-1158,PAC-62179,"Dermatologia",18,"Masculino",1,33,"Tarde","Sábado",0,1,285,"No-Show (Faltou)",285,0.75
+MED-1159,PAC-49989,"Neurologia",34,"Masculino",0,12,"Manhã","Terça",1,0,365,"Compareceu",0,0.23
+MED-1160,PAC-74466,"Ortopedia",24,"Masculino",0,20,"Tarde","Sábado",1,0,269,"Compareceu",0,0.3
+MED-1161,PAC-15610,"Clínica Geral",25,"Masculino",0,2,"Tarde","Segunda",1,1,193,"Compareceu",0,0.34
+MED-1162,PAC-23420,"Clínica Geral",19,"Masculino",1,18,"Tarde","Sexta",1,0,165,"Compareceu",0,0.23
+MED-1163,PAC-67897,"Ginecologia",40,"Feminino",0,22,"Noite","Quinta",0,2,230,"No-Show (Faltou)",230,0.89
+MED-1164,PAC-29040,"Neurologia",79,"Feminino",0,1,"Manhã","Segunda",1,0,397,"Compareceu",0,0.16
+MED-1165,PAC-56851,"Clínica Geral",40,"Masculino",1,9,"Noite","Sábado",0,0,191,"Compareceu",0,0.38
+MED-1166,PAC-31327,"Ortopedia",36,"Masculino",1,8,"Tarde","Sábado",0,2,259,"No-Show (Faltou)",259,0.63
+MED-1167,PAC-12471,"Ginecologia",44,"Feminino",0,20,"Tarde","Sexta",0,0,248,"No-Show (Faltou)",248,0.56
+MED-1168,PAC-60281,"Ginecologia",43,"Masculino",0,32,"Noite","Sábado",1,2,224,"No-Show (Faltou)",224,0.65
+MED-1169,PAC-54758,"Dermatologia",77,"Masculino",0,24,"Noite","Segunda",1,0,284,"No-Show (Faltou)",284,0.52
+MED-1170,PAC-55902,"Neurologia",54,"Masculino",1,33,"Tarde","Sábado",1,0,365,"Compareceu",0,0.26
+MED-1171,PAC-33712,"Dermatologia",26,"Masculino",1,40,"Tarde","Quarta",0,0,274,"No-Show (Faltou)",274,0.63
+MED-1172,PAC-48189,"Neurologia",29,"Feminino",0,26,"Manhã","Sexta",1,3,396,"Compareceu",0,0.75
+MED-1173,PAC-69332,"Neurologia",43,"Feminino",0,28,"Manhã","Sábado",1,0,369,"Compareceu",0,0.33
+MED-1174,PAC-67142,"Ginecologia",49,"Masculino",1,29,"Tarde","Quinta",1,1,250,"Compareceu",0,0.41
+MED-1175,PAC-11619,"Ginecologia",25,"Feminino",0,12,"Noite","Terça",1,3,225,"Compareceu",0,0.67
+MED-1176,PAC-52763,"Ginecologia",77,"Feminino",0,9,"Tarde","Quinta",1,0,220,"Compareceu",0,0.13
+MED-1177,PAC-70573,"Clínica Geral",52,"Masculino",0,6,"Tarde","Quarta",1,0,163,"Compareceu",0,0.16
+MED-1178,PAC-35050,"Clínica Geral",63,"Feminino",1,29,"Manhã","Terça",0,0,160,"Compareceu",0,0.46
+MED-1179,PAC-96193,"Neurologia",23,"Feminino",0,20,"Tarde","Sábado",0,0,378,"No-Show (Faltou)",378,0.47
+MED-1180,PAC-44003,"Cardiologia",34,"Masculino",1,11,"Manhã","Sábado",1,0,303,"No-Show (Faltou)",303,0.15
+MED-1181,PAC-28480,"Clínica Geral",19,"Masculino",1,31,"Tarde","Sábado",1,0,182,"Compareceu",0,0.27
+MED-1182,PAC-19624,"Dermatologia",76,"Masculino",1,16,"Manhã","Sexta",0,1,292,"No-Show (Faltou)",292,0.66
+MED-1183,PAC-77434,"Cardiologia",58,"Masculino",1,4,"Tarde","Segunda",1,0,329,"Compareceu",0,0.13
+MED-1184,PAC-81911,"Neurologia",78,"Feminino",1,15,"Manhã","Quarta",1,0,390,"Compareceu",0,0.11
+MED-1185,PAC-93054,"Ortopedia",41,"Masculino",0,2,"Tarde","Quarta",1,2,253,"Compareceu",0,0.46
+MED-1186,PAC-80864,"Dermatologia",62,"Masculino",0,23,"Manhã","Sábado",1,0,272,"No-Show (Faltou)",272,0.41
+MED-1187,PAC-15341,"Cardiologia",50,"Masculino",1,34,"Noite","Quarta",1,0,326,"Compareceu",0,0.3
+MED-1188,PAC-46485,"Dermatologia",51,"Masculino",1,9,"Noite","Sexta",0,1,300,"No-Show (Faltou)",300,0.68
+MED-1189,PAC-54295,"Neurologia",42,"Masculino",1,31,"Noite","Quarta",1,1,362,"Compareceu",0,0.43
+MED-1190,PAC-98772,"Ortopedia",69,"Feminino",0,36,"Noite","Terça",1,0,248,"Compareceu",0,0.4
+MED-1191,PAC-59915,"Dermatologia",40,"Feminino",0,7,"Tarde","Sexta",0,0,304,"Compareceu",0,0.58
+MED-1192,PAC-87726,"Dermatologia",68,"Masculino",1,21,"Manhã","Quinta",1,0,298,"No-Show (Faltou)",298,0.24
+MED-1193,PAC-62202,"Clínica Geral",64,"Masculino",0,19,"Tarde","Quinta",1,0,176,"Compareceu",0,0.19
+MED-1194,PAC-43346,"Ortopedia",73,"Feminino",1,34,"Noite","Terça",1,0,265,"Compareceu",0,0.33
+MED-1195,PAC-91156,"Cardiologia",72,"Masculino",0,2,"Noite","Quarta",0,3,301,"No-Show (Faltou)",301,0.74
+MED-1196,PAC-85633,"Ginecologia",38,"Masculino",0,39,"Manhã","Quinta",1,1,231,"Compareceu",0,0.48
+MED-1197,PAC-86777,"Dermatologia",20,"Masculino",0,2,"Noite","Quinta",1,0,272,"Compareceu",0,0.33
+MED-1198,PAC-64587,"Ortopedia",52,"Masculino",0,5,"Tarde","Sábado",1,0,241,"Compareceu",0,0.22
+MED-1199,PAC-79064,"Ginecologia",55,"Feminino",1,41,"Manhã","Quarta",0,0,253,"No-Show (Faltou)",253,0.53
+MED-1200,PAC-10207,"Ginecologia",72,"Feminino",1,1,"Tarde","Quinta",1,0,226,"Compareceu",0,0.06
