@@ -47,7 +47,7 @@ Uma rede de clínicas ambulatoriais multiespecialidades registrava uma taxa méd
 ## 📂 Estrutura do Repositório
 
 ```text
-healthcare-no-show-analytics/
+healthcare-patient-no-show/
 │
 ├── data/
 │   └── healthcare_appointments_dataset.csv    # Base com 1.200 consultas e métricas clínicas
@@ -114,8 +114,8 @@ healthcare-no-show-analytics/
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/wendellbarbosacosta-cmyk/healthcare-no-show-analytics.git
-cd healthcare-no-show-analytics
+git clone https://github.com/wendellbarbosacosta-cmyk/healthcare-patient-no-show.git
+cd healthcare-patient-no-show
 
 # 2. Criar e ativar o ambiente virtual
 python3 -m venv venv
